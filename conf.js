@@ -168,11 +168,11 @@ $(function() {
 		}); 
 	}
 	$.when(
-	  $.getJSON("/json/persons.json", function(data) { person_array = data; }),
-	  $.getJSON("/json/schedule.json", function(data) { schedule_array = data; }),
-	  $.getJSON("/json/countries.json", function(data) { countries_json_array = data; }),
-	  $.getJSON("/json/topics.json", function(data) { topics_array = data; }),
-	  $.getJSON("/json/topics2.json", function(data) { topics2_array = data; })
+	  $.getJSON("json/persons.json", function(data) { person_array = data; }),
+	  $.getJSON("json/schedule.json", function(data) { schedule_array = data; }),
+	  $.getJSON("json/countries.json", function(data) { countries_json_array = data; }),
+	  $.getJSON("json/topics.json", function(data) { topics_array = data; }),
+	  $.getJSON("json/topics2.json", function(data) { topics2_array = data; })
 	).then(function() {
 		$("#stacksel").select2({
 		   placeholder: "Імя",
