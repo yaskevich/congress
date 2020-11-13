@@ -1,0 +1,2244 @@
+code 1.1.1
+date 22 time 9.00 - 11.00
+place аўдыторыя І
+>>1Гешев Валентин (Балгарыя)
+PERSON 350 Гешев Валентин
+PAPER 4 :: Дунавска прародина? (етногенеза на славяните)
+>>1Пивторак Г.П. (Украіна)
+PERSON 491 Пивторак Г.П.
+PAPER 5 :: Проблема этно- и глоттогенеза кривичей и словен новгородских в контексте ранней истории славянских племен
+>>1Zoltán András (Венгрыя)
+PERSON 267 Zoltán András
+PAPER 6 :: Славянские диалекты Дунайского бассейна во время прихода венгров (IX в.)
+>>1Jelínková Dagmar (Чэхія)
+PERSON 91 Jelínková Dagmar
+PAPER 7 :: Nejstarší slovanské osídlení Moravy ve světle nových nálezů z Pavlova
+code 1.1.2
+date 22 time 11.30 - 13.00
+place аўдыторыя І
+>>1Kotłowska Anna (Польшча)
+PERSON 112 Kotłowska Anna
+PAPER 8 :: Słowianie w historiografii bizantyńskiej XI-XII wieku
+>>1Vinţeler Onufrie (Румынія)
+PERSON 244 Vinţeler Onufrie
+PAPER 9 :: Славяне - об этнониме валах/влах
+>>1Profantová Naděžda (Чэхія)
+PERSON 181 Profantová Naděžda
+PAPER 10 :: Nejstarší slovanské osídlení v Čechách ve světle nových výzkumů v Roztokách u Prahy
+code 1.1.3
+date 22 time 14.30 - 16.00
+place аўдыторыя І
+>>1Варбот Ж.Ж. (Расія)
+PERSON 328 Варбот Ж.Ж.
+PAPER 11 :: Морфологическое переразложение в праславянском языке и реконструкция праславянского лексического фонда
+>>1Мароевич Радмило (Сербія)
+PERSON 443 Мароевич Радмило
+PAPER 12 :: Взаимоотношение суффиксальных и синтаксических посессивных форм в праславянском языке (генезис посессивных суффиксов и история посессивных датива и генитива)
+>>1Furlan Metka (Славенія)
+PERSON 57 Furlan Metka
+PAPER 13 :: Towards the Identification of the Early Proto-Slavic Acrostatic Declension of i-Stem Nouns
+code 1.1.4
+date 22 time 16.30 - 18.00
+place аўдыторыя І
+>>1Толстая С.М. (Расія)
+PERSON 552 Tolstaja Svetlana M.
+PAPER 14 :: Семантическая реконструкция и лексическая типология
+>>1Jakubowicz Mariola (Польшча)
+PERSON 87 Jakubowicz Mariola
+PAPER 15 :: Zasady rekonstrukcji semantyki w pracach etymologicznych
+>>1Куркина Л.В. (Расія)
+PERSON 428 Куркина Л.В.
+PAPER 16 :: К реконструкции структурно-семантических отношений в системе славянских терминов земледелия
+code 1.1.5
+date 23 time 9.00 - 11.00
+place аўдыторыя І
+>>1Janyšková Ilona (Чэхія)
+PERSON 89 Janyšková Ilona
+PAPER 17 :: Místo kontaminace v etymologických výkladech
+>>1Orr Robert (Канада)
+PERSON 165 Orr Robert
+PAPER 18 :: Combining Hamp and Holzer - Gentlemen, You Are Both Right
+>>1Черниш Т.О. (Украіна)
+PERSON 579 Черниш Т.О.
+PAPER 19 :: Праслов'янська синонімія в контексті гніздового підходу
+>>1Валенцова М.М. (Расія)
+PERSON 325 Валенцова М.М.
+PAPER 20 :: Словацкая мифологическая лексика на общеславянском фоне
+code 1.1.6
+date 23 time 11.30 - 13.00
+place аўдыторыя І
+>>1Karlíková Helena (Чэхія)
+PERSON 99 Karlíková Helena
+PAPER 21 :: Poznámky k lexikálním výpůjčkam ve staroslověnštině a jejich reflexe v češtině a ostatních slovanských jazycích (sémanticko-etymologická analýza)
+>>2Бьелетич Марта, Влайич-Попович Ясна (Сербія)
+PERSON 324 Бьелетич Марта
+PERSON 339 Влайич-Попович Ясна
+PAPER 22 :: Однотомный этимологический словарь сербского языка (методологический аспект)
+>>1Čajka František (Чэхія)
+PERSON 33 Čajka František
+PAPER 23 :: Molitva o izbavlenii otъ bluda v církevněslovanských rukopisech
+code 1.1.7
+date 22 time 9.00 - 11.00
+place аўдыторыя ІІ
+>>1Torkar Silvo (Славенія)
+PERSON 231 Torkar Silvo
+PAPER 24 :: Dvočlenski slovanski antroponimi v slovenski toponimiji
+>>1Trawińska Maria (Польшча)
+PERSON 233 Trawińska Maria
+PAPER 25 :: Jak identyfikowano ludzi w średniowiecznych księgach sądowych
+>>2Brozović-Rončević Dunja, Kapetanović Amir (Харватыя)
+PERSON 27 Brozović-Rončević Dunja
+PERSON 96 Kapetanović Amir
+PAPER 26 :: Tvorba i motivacija starohrvatskih priimaka
+>>1Мезенка Ганна (Беларусь)
+PERSON 448 Мезенка Ганна
+PAPER 27 :: Коды культуры и урбанонимия славян: сходство и вариации интерпретации
+code 1.1.8
+date 22 time 11.30 - 13.00
+place аўдыторыя ІІ
+>>1Васильев В.Л. (Расія)
+PERSON 329 Васильев В.Л.
+PAPER 28 :: Славянская колонизация Русского Северо-Запада в свете ономастики
+>>1Аврамова Цветанка Димчова (Балгарыя)
+PERSON 591 Аврамова Цветанка Димчова
+PAPER 29 :: Словообразувателен потенциал на собствените имена в съвременния български език в съпоставка с чешки и руски (върху материал от субстантивната лексика)
+>>1Дергач Д.В. (Украіна)
+PERSON 362 Дергач Д.В.
+PAPER 30 :: Онимная колористика в славянских языках
+code 1.1.9
+date 22 time 14.30 - 16.00
+place аўдыторыя ІІ
+>>1Font Márta (Венгрыя)
+PERSON 53 Font Márta
+PAPER 31 :: Пребывание в Киеве Бруна Кверфуртского: факты, вопросы, гипотезы
+>>1Кэйко Митани (Японія)
+PERSON 429 Кэйко Митани
+PAPER 32 :: Function Words in Contact and Borrowability of Linguistic Items in Slavic: A case in Croatian variety in Moravia
+>>1Martínek Jiří (Чэхія)
+PERSON 139 Martínek Jiří
+PAPER 33 :: Česká geografie a její přínos k poznání slovanských zemí
+code 1.1.10
+date 23 time 9.00 - 11.00
+place аўдыторыя ІІ
+>>1Зубов Н.И. (Украіна)
+PERSON 374 Зубов Н.И.
+PAPER 34 :: Славянско-немецкие межъязыковые семантические параллели
+>>1Villnow Komárková Jana (Чэхія)
+PERSON 287 Villnow Komárková Jana
+PAPER 35 :: Germanismy v české textilní terminologii (etymologie a sémantika)
+>>1Lewaszkiewicz Tadeusz (Польшча)
+PERSON 127 Lewaszkiewicz Tadeusz
+PAPER 36 :: Polsko-łużyckie kontakty językowe od X/XI do XXI w.
+>>1Kovacs Oxana (Венгрыя)
+PERSON 113 Kovacs Oxana
+PAPER 37 :: Aspects of the TorT, TolT, TerT, TelT Reflexes In the Slavonic Loanwords of the Hungarian Language (A New Approach to the Problems of Classification)
+code 1.1.11
+date 24 time 9.00 - 11.00
+place аўдыторыя ІІІ
+>>1Плотникова А.А. (Расія)
+PERSON 496 Плотникова А.А.
+PAPER 38 :: Полесье как архаическая зона Славии: этнолингвистический аспект
+>>3Николаев С.Л., Тер-Аванесова А.В., Толстая М.Н. (Расія)
+PERSON 476 Николаев С.Л.
+PERSON 550 Тер-Аванесова А.В.
+PERSON 551 Толстая М.Н.
+PAPER 39 :: Вокализм полесских говоров в праславянской перспективе
+>>1Антропов Н.П. (Беларусь)
+PERSON 301 Антропов Н.П.
+PAPER 40 :: "Вождение Кýста" в контексте проблематики белорусско-инославянских (неславянских) этнолингвистических соответствий
+code 1.2.1
+date 23 time 11.30 - 13.00
+place аўдыторыя ІІ
+>>1Rosén Thomas (Швецыя)
+PERSON 191 Rosén Thomas
+PAPER 41 :: Русский язык сороковых годов XVIII века
+>>1Стојановић Јелица (Чарнагорыя)
+PERSON 539 Стојановић Јелица
+PAPER 42 :: Правци промјена у употреби падежних средстава за изражавање просторних односа у историји српског језика (у контексту осталих словенских језика)
+>>1Post Margje (Нарвегія)
+PERSON 179 Post Margje
+PAPER 43 :: Севернорусские прагматические частицы: слова-паразиты или эффективная коммуникация?
+code 1.2.2
+date 24 time 9.00 - 11.00
+place аўдыторыя ІІ
+>>1Касаткин Л.Л. (Расія)
+PERSON 398 Касаткин Л.Л.
+PAPER 44 :: Русское и белорусское аканье: происхождение и история
+>>1Vakareliyska Cynthia (ЗША)
+PERSON 240 Vakareliyska Cynthia
+PAPER 45 :: Reconstructing the Vowel System of the Dialect Reflected in the Vraca Gospel
+>>1Касаткина Р.Ф. (Расія)
+PERSON 399 Касаткина Р.Ф.
+PAPER 46 :: Консонантные протезы в восточнославянском ареале
+>>2Pliško Lina, Mandić David (Харватыя)
+PERSON 176 Pliško Lina
+PERSON 132 Mandić David
+PAPER 47 :: Mjesni govor Svetvinčenta
+code 1.2.3
+date 24 time 11.30 - 13.00
+place аўдыторыя ІІ
+>>1Björnflaten Jan Ivar (Нарвегія)
+PERSON 269 Björnflaten Jan Ivar
+PAPER 48 :: The East Slavic Verbal System and the Preterit in Northwest Russian
+>>1Mengel Swetlana (Германія)
+PERSON 144 Mengel Swetlana
+PAPER 49 :: Neue Erkenntnisse zur Stockholmer Paradigmatik (Ext. 157: 6, 38) - Rudimenta Linguae Russicae (AFrSt HJ 23) von Joachim Christoph Stahl
+>>1Orel Irena (Славенія)
+PERSON 164 Orel Irena
+PAPER 50 :: Znotraj- in/ali zunajezikovni dejavniki oblikotvornih sprememb v slovenskem zgodovinskem oblikoslovju
+code 1.2.4
+date 24 time 9.00 - 11.00
+place аўдыторыя І
+>>1Šivic-Dular Alenka (Славенія)
+PERSON 211 Šivic-Dular Alenka
+PAPER 51 :: Prispevek k tipologiji znotrajjezikovnih razvojnih dejavnikov (na primeru slovanskih jezikov)
+>>1Радева Василка (Балгарыя)
+PERSON 506 Радева Василка
+PAPER 52 :: Общославянска лексика в българските диалекти
+>>1Legan Ravnikar Andreja (Славенія)
+PERSON 278 Legan Ravnikar Andreja
+PAPER 53 :: Delež prevzetih besed in drugih tujejezičnih prvin neslovanskega in slovanskega izvora v slovenski knjižni normi 16. stoletja
+>>1Радич Првослав (Сербія)
+PERSON 509 Радич Првослав
+PAPER 54 :: Косовско-метохийская славянская периферия между языковыми архаизмами и инновациями
+code 1.2.5
+date 24 time 11.30 - 13.00
+place аўдыторыя І
+>>1Marvan Jiří (Чэхія)
+PERSON 140 Marvan Jiří
+PAPER 55 :: Belarusian within the Slavic-Baltic euro-zone - morfo-lexikal Processes
+>>1Даніловіч М.А. (Беларусь)
+PERSON 360 Даніловіч М.А.
+PAPER 56 :: Уплыў кантактных моў на фразеалогію гаворак Гродзеншчыны
+>>1Wiemer Björn (Германія)
+PERSON 249 Wiemer Björn
+PAPER 57 :: О наслоении ареальных черт в балто-славянском пограничье (со специальным учетом роли белорусских говоров)
+>>1Rembiszewska Dorota Krystyna (Польшча)
+PERSON 284 Rembiszewska Dorota Krystyna
+PAPER 58 :: Gwary mazurskie w świetle materiałów Georga Wenkera
+code 1.2.6
+date 22 time 9.00 - 11.00
+place аўдыторыя ІІІ
+>>1Узенева Е.С. (Расія)
+PERSON 564 Узенева Е.С.
+PAPER 59 :: ОКДА и современные полевые этнолингвистические исследования карпато-балканского региона
+>>1Cychnerska Anna (Польшча)
+PERSON 41 Cychnerska Anna
+PAPER 60 :: Bałkański typ sandhi
+>>1Јовановић Миодраг (Чарнагорыя)
+PERSON 390 Јовановић Миодраг
+PAPER 61 :: Фонетске особине говора на тромеђи Србије, Црне Горе и Босне и Херцеговине
+>>1Макарцев М.М. (Расія)
+PERSON 437 Макарцев М.М.
+PAPER 62 :: Инновации в глагольной системе славянского говора Бобоштицы (обл. Корчи, Албания)
+>>1Radan N. Mihai (Румынія)
+PERSON 283 Radan N. Mihai
+PAPER 63 :: O nekim zajedničkim osobinama karaševskih i srpskih banatskih govora šumadijsko-vojvođanskog tipa. Njihovo poreklo i značaj
+code 1.2.7
+date 22 time 11.30 - 13.00
+place аўдыторыя ІІІ
+>>1Вендина Т.И. (Расія)
+PERSON 333 Вендина Т.И.
+PAPER 64 :: Типология архаичных ареалов Славии
+>>1Гриценко П.Е. (Украіна)
+PERSON 355 Гриценко П.Е.
+PAPER 65 :: Славянские изоглоссы: генезис, типы, эвристический потенциал
+>>1Реметич Слободан (Сербія)
+PERSON 513 Реметич Слободан
+PAPER 66 :: Сербский диалектологический атлас в свете языковой и диалектной интерференции (лингвистический и социолингвистический аспект)
+>>1Мызников С.А. (Расія)
+PERSON 469 Мызников С.А.
+PAPER 67 :: Региональные восточнославянские атласы в системе славянских и финно-угорских
+code 1.2.8
+date 22 time 14.30 - 16.00
+place аўдыторыя ІІІ
+>>1Siatkowski Janusz (Польшча)
+PERSON 205 Siatkowski Janusz
+PAPER 68 :: Wieloznaczność i geografia słowiańskich nazw części ciała
+>>1Ferenčíková Adriana (Славакія)
+PERSON 52 Ferenčíková Adriana
+PAPER 69 :: Slovotvorná problematika v 4. zväzku lexikálno-slovotvornej série Slovanského jazykového atlasu (Poľnohospodárstvo)
+>>1Русак В.П. (Беларусь)
+PERSON 522 Русак В.П.
+PAPER 70 :: Марфаналогія беларускай мовы ў агульнаславянскім кантэксце: лінгвагеаграфічны аспект
+code 1.2.9
+date 23 time 9.00 - 11.00
+place аўдыторыя ІІІ
+>>1Kloferová Stanislava (Чэхія)
+PERSON 104 Kloferová Stanislava
+PAPER 71 :: Současná česká dialektologie: po Českém jazykovém atlasu Slovník nářečí českého jazyka
+>>1Скорвид С.С. (Расія)
+PERSON 529 Скорвид С.С.
+PAPER 72 :: Говор потомков чешских переселенцев на Северном Кавказе как пример лингвоареального дрейфа
+>>1Fellerer Jan (Вялікабрытанія)
+PERSON 51 Fellerer Jan
+PAPER 73 :: Польско-украинское двуязычие во Львове ок. 1900 г.
+code 1.2.10
+date 23 time 11.30 - 13.00
+place аўдыторыя ІІІ
+>>1Юми Накадзима (Японія)
+PERSON 589 Юми Накадзима
+PAPER 74 :: Structural Development of the Pronominal System in Macedonian Dialects
+>>1Ананьева Н.Е. (Расія)
+PERSON 298 Ананьева Н.Е.
+PAPER 75 :: Типология польских говоров Сибири и результаты их контактов с русским идиомом
+>>1Sierociuk Jerzy (Польшча)
+PERSON 207 Sierociuk Jerzy
+PAPER 76 :: Cechy definicyjne gwar w języku mieszkańców wsi
+code 1.3.1
+date 22 time 9.00 - 11.00
+place аўдыторыя VII
+>>1Пичхадзе А.А. (Расія)
+PERSON 494 Пичхадзе А.А.
+PAPER 77 :: Лингвистические особенности славянских толковых переводов
+>>1Йованович Гордана (Сербія)
+PERSON 386 Йованович Гордана
+PAPER 78 :: Языковые особенности новозаветных апокрифов сербской редакции
+>>1Stankovska Petra (Славенія)
+PERSON 215 Stankovska Petra
+PAPER 79 :: Patristické texty v sanktorálu chorvatskohlaholských breviářů vzniklých do 15. stol.
+>>1Запольская Н.Н. (Расія)
+PERSON 372 Запольская Н.Н.
+PAPER 80 :: Церковнославянский язык XI-XVII вв.: грамматика ошибок
+code 1.3.2
+date 22 time 11.30 - 13.00
+place аўдыторыя VII
+>>2Гиппиус А.А., Михеев С.М. (Расія)
+PERSON 351 Гиппиус А.А.
+PERSON 456 Михеев С.М.
+PAPER 81 :: Надписи-граффити Новгородского Софийского собора
+>>1MacRobert Catherine Mary (Вялікабрытанія)
+PERSON 279 MacRobert Catherine Mary
+PAPER 82 :: Да насладитъся емоу бесѣда моя: the use of 2nd person perfect and imperative forms in Church Slavonic
+>>1Німчук В.В. (Украіна)
+PERSON 480 Німчук В.В.
+PAPER 83 :: "Влесова (Велесова) книга" з погляду славістики
+code 1.3.3
+date 22 time 14.30 - 16.00
+place аўдыторыя VII
+>>1Герасимова И.В. (Расія)
+PERSON 349 Герасимова И.В.
+PAPER 84 :: Проблема адаптации текста и напева песнопений Литургии Киевской митрополии в рукописях Московского патриархата XVII - первой половины XVIII вв.
+>>1Калезиħ Димитриjе (Сербія)
+PERSON 392 Калезиħ Димитриjе
+PAPER 85 :: Богословска предност старословенског jезика
+>>1Николенкова Н.В. (Расія)
+PERSON 477 Николенкова Н.В.
+PAPER 86 :: Стратегии формирования церковнославянского языка как языка науки в XVII в. (на примере перевода Атласа Blaeu)
+>>1Hegedűs Iván (Венгрыя)
+PERSON 75 Hegedűs Iván
+PAPER 87 :: К вопросу о так называемой "никоновской" книжной справе в XVII веке
+code 1.3.4
+date 22 time 16.30 - 18.00
+place аўдыторыя VII
+>>1Del Gaudio Salvatore (Італія)
+PERSON 274 Del Gaudio Salvatore
+PAPER 88 :: Ранні латинсько-слов'янські мовні контакти та їх відображення в перших писемних пам'ятках
+>>1Daiber Thomas (Германія)
+PERSON 43 Daiber Thomas
+PAPER 89 :: Synchronizität und Kausalität яко (recitativum) im Codex Marianus
+>>1Alberti Alberto (Італія)
+PERSON 3 Alberti Alberto
+PAPER 90 :: "Преславска лексика" или "Преславски текст"? Някакви наблюдения върху класификацията на евангелиските ръкописи
+code 1.3.5
+date 23 time 9.00 - 11.00
+place аўдыторыя VII
+>>1Thomson F. (Бельгія)
+PERSON 230 Thomson F.
+PAPER 91 :: The Slav Reception of the Works of Pope Gregory the Great
+>>1Молдован А.М. (Расія)
+PERSON 462 Молдован А.М.
+PAPER 92 :: Рукописная традиция 16 Слов Григория Богослова с толкованиями Никиты Ираклийского
+>>1Åkerman Sarkisian Karine (Швецыя)
+PERSON 268 Åkerman Sarkisian Karine
+PAPER 93 :: К истории двух переводов сводной редакции Жития Онуфрия Пустынника
+code 1.3.6
+date 23 time 11.30 - 13.00
+place аўдыторыя VII
+>>1Žagar Mateo (Харватыя)
+PERSON 258 Žagar Mateo
+PAPER 94 :: Prinos tipologiziranju pisma i pisanja dubrovačkih srednjovjekovnih ćiriličkih isprava
+>>1Кравецкий А.Г. (Расія)
+PERSON 421 Кравецкий А.Г.
+PAPER 95 :: Церковнославянский язык как один из современных славянских языков
+>>2Mihaljević Milan, Šimić Marinka (Харватыя)
+PERSON 148 Mihaljević Milan
+PERSON 209 Šimić Marinka
+PAPER 96 :: Preslavizmi u hrvatskoglagoljskim tekstovima
+code 1.3.7
+date 24 time 9.00 - 11.00
+place аўдыторыя VII
+>>1Siilin Lea (Фінляндыя)
+PERSON 208 Siilin Lea
+PAPER 97 :: Язык древнерусских иконописных подлинников ХVI-ХVII вв.
+>>2Баранкова Г.С., Макеева И.И. (Расія)
+PERSON 307 Баранкова Г.С.
+PERSON 438 Макеева И.И.
+PAPER 98 :: Повествовательные произведения Кирилла Туровского и проблемы русского литературного языка
+>>1Brogi Giovanna (Італія)
+PERSON 26 Brogi Giovanna
+PAPER 99 :: Зоря модерності чи світанок традиції? Феофан Прокопович та розвиток гомілетики у вісімнадцятому сторіччі
+>>1Солонская Н.Г. (Украіна)
+PERSON 534 Солонская Н.Г.
+PAPER 100 :: Библиография изданий по истории княжеской библиотеки Киевской Руси XI в.: новый взгляд на проблему
+code 1.3.8
+date 24 time 11.30 - 13.00
+place аўдыторыя VII
+>>1Vepřek Miroslav (Чэхія)
+PERSON 243 Vepřek Miroslav
+PAPER 101 :: Českocírkevněslovanské památky s latinskou předlohou - filologická a translatologická analýza
+>>1Афанасьева Т.И. (Расія)
+PERSON 304 Афанасьева Т.И.
+PAPER 102 :: Толкование на литургию как жанр древнеславянской литературы и его история в славянской рукописной традиции XII-XVI вв.
+code 1.3.9
+date 22 time 16.30 - 18.00
+place аўдыторыя ІII
+>>1Алексеев А.А. (Расія)
+PERSON 296 Алексеев А.А.
+PAPER 103 :: Итоги и задачи изучения славянской Библии (К 25-летию Славянской библейской комиссии при Международном комитете славистов)
+>>1Lomagistro Barbara (Італія)
+PERSON 128 Lomagistro Barbara
+PAPER 104 :: Srednjovekovna slovenska rukopisna knjiga: metodološka i terminološka pitanja
+>>1Chiara Ferro Maria (Італія)
+PERSON 270 Chiara Ferro Maria
+PAPER 105 :: Святая Евфросиния игуменья Полоцкая. Поиск исторического лица между агиографической традицией и летописными записками
+code 1.3.10
+date 22 time 16.30 - 18.00
+place аўдыторыя II
+>>1Верещагин Е.М. (Расія)
+PERSON 335 Верещагин Е.М.
+PAPER 106 :: Библеистический анализ двух ветхозаветных цитат в Житии Константина-Кирилла Философа
+>>1Николова Светлина (Балгарыя)
+PERSON 478 Николова Светлина
+PAPER 107 :: Средневековая письменная традиция Мефодиевского перевода "Иисуса сына Сирахова у славян"
+>>1Škoviera Andrej (Славакія)
+PERSON 212 Škoviera Andrej
+PAPER 108 :: Služby sv. Naumovi Ochridskému
+>>1Иванова Диана Петрова (Балгарыя)
+PERSON 599 Иванова Диана Петрова
+PAPER 109 :: Южнославянската печатна книга от ХVІ век и пътят към окончателната рускоцърковнославянска езикова кодификация на библейския (евангелски) текст
+code 1.3.11
+date 22 time 9.00 - 11.00
+place аўдыторыя VIII
+>>2Мойсиенко В.М., Ника О.И. (Украіна)
+PERSON 459 Мойсиенко В.М.
+PERSON 474 Ника О.И.
+PAPER 110 :: "Проста мова" в Украине и Белоруси в XVI веке
+>>1Вернер И.В. (Расія)
+PERSON 336 Вернер И.В.
+PAPER 111 :: Грамматическая справа Максима Грека в Псалтыри 1552 г.
+>>1Garbul L. (Літва)
+PERSON 60 Garbul L.
+PAPER 112 :: Значимость фактора межславянских языковых контактов в формировании русского литературного языка нового типа
+>>1Dzięgiel Ewa (Польшча)
+PERSON 48 Dzięgiel Ewa
+PAPER 113 :: Archaizmy a interferencje w kontaktach języków blisko spokrewnionych (przykład polsko-ukraiński)
+code 1.3.12
+date 22 time 11.30 - 13.00
+place аўдыторыя VIII
+>>1Клімаў І.П. (Беларусь)
+PERSON 406 Клімаў І.П.
+PAPER 114 :: Функцыянаванне і ўзаемадзеянне розных славянскіх моў і літаратур у Вялікім Княстве Літоўскім
+>>1Cicėnienė R. (Літва)
+PERSON 38 Cicėnienė R.
+PAPER 115 :: Рукописная книга и общество Великого Княжества Литовского в ХIV - середине ХV в.
+>>1Fałowski Adam (Польшча)
+PERSON 50 Fałowski Adam
+PAPER 116 :: Język najstarszych katechizmów zachodnioruskich
+code 1.3.13
+date 22 time 14.30 - 16.00
+place аўдыторыя VIII
+>>1Temčin S. (Літва)
+PERSON 226 Temčin S.
+PAPER 117 :: Cyrillic 16-century manuscript manual of Hebrew and its teaching methods
+>>2Прискока О.В., Франчук В.Ю. (Украіна)
+PERSON 501 Прискока О.В.
+PERSON 567 Франчук В.Ю.
+PAPER 118 :: Киевское наследие в письменности Великого Княжества Литовского
+>>1Morozova N. (Літва)
+PERSON 155 Morozova N.
+PAPER 119 :: Сочинения старообрядцев-беспоповцев в Речи Посполитой в ХVIII ст.
+code 1.3.14
+date 24 time 11.30 - 13.00
+place аўдыторыя ІІІ
+>>1Крысько В.Б. (Расія)
+PERSON 426 Крысько В.Б.
+PAPER 120 :: Древнеславянский канон в честь Кирилла Философа: итоги исследования
+>>1Čermák Václav (Чэхія)
+PERSON 35 Čermák Václav
+PAPER 121 :: Žaltářní citáty v českocírkevněslovanském překladu Čtyřiceti homilií na evangelia (Besědy) Řehoře Velikého
+>>1Walczak Bogdan (Польшча)
+PERSON 246 Walczak Bogdan
+PAPER 122 :: Przejawy integracji językowej w obrębie klasy politycznej Wielkiego Księstwa Litewskiego
+code 1.3.15
+date 22 time 16.30 - 18.00
+place аўдыторыя VIII
+>>1Miškinienė G. (Літва)
+PERSON 151 Miškinienė G.
+PAPER 123 :: O tekstologii rukopisnyh kitabov litovskih tatar: Legenda "Miradž"
+>>1Тарэлка М.У. (Беларусь)
+PERSON 549 Тарэлка М.У.
+PAPER 124 :: Ці існаваў старабеларускі пераклад Карана?
+code 1.4.1
+date 23 time 9.00 - 11.00
+place аўдыторыя VIII
+>>1Нещименко Г.П. (Расія)
+PERSON 473 Нещименко Г.П.
+PAPER 125 :: Динамика речевого стандарта современной публичной коммуникации и его влияние на кодификационную практику
+>>1Gajda Stanisław (Польшча)
+PERSON 58 Gajda Stanisław
+PAPER 126 :: Słowiańskie style narodowe
+>>1Hoffmannová Jana (Чэхія)
+PERSON 79 Hoffmannová Jana
+PAPER 127 :: Česká hovorovost a hovorová čeština (v kontextu dalších slovanských jazyků)
+>>1Mažara Jekaterina (Швейцарыя)
+PERSON 141 Mažara Jekaterina
+PAPER 128 :: Ten in the obecná čeština - the origins of a future article?
+code 1.4.2
+date 23 time 11.30 - 13.00
+place аўдыторыя VIII
+>>1Рамза Т.Р. (Беларусь)
+PERSON 511 Рамза Т.Р.
+PAPER 129 :: Гутарковае беларускае маўленне ў кантэксце славянскіх моў: ілюзіі і рэаліі
+>>2Turk Marija, Opašić Maja (Харватыя)
+PERSON 237 Turk Marija
+PERSON 163 Opašić Maja
+PAPER 130 :: O prihvatljivosti i prihvaćenosti zamjena za posuđenice u hrvatskome jeziku
+code 1.4.3
+date 24 time 9.00 - 11.00
+place аўдыторыя VIII
+>>1Bunčić Daniel (Германія)
+PERSON 31 Bunčić Daniel
+PAPER 131 :: Письменность Беларуси на стыке востока и запада (между двумя алфавитами, двумя орфографиями, двумя языками)
+>>1Flier Michael S. (ЗША)
+PERSON 275 Flier Michael S.
+PAPER 132 :: The Rule of Nine: Ukrainian and Belarusian Orthographic Principles in Historical Perspective
+>>1Брборич Велько (Сербія)
+PERSON 318 Брборич Велько
+PAPER 133 :: Современные орфографические тенденции сербско-хорватского языка начала XXI века
+>>1Weiss Daniel (Швейцарыя)
+PERSON 248 Weiss Daniel
+PAPER 134 :: Двойные глаголы в русской разговорной речи в зеркале Национального корпуса
+code 1.4.4
+date 24 time 11.30 - 13.00
+place аўдыторыя VIII
+>>1Васильева Л.П. (Украіна)
+PERSON 330 Васильева Л.П.
+PAPER 135 :: Лингвальный универсум периода славянского национального возрождения
+>>1Marti Roland (Германія)
+PERSON 138 Marti Roland
+PAPER 136 :: Шибболеты в языковой политики славян
+code 1.4.5
+date 22 time 9.00 - 11.00
+place аўдыторыя IX
+>>1Warditz Vladislava (Германія)
+PERSON 247 Warditz Vladislava
+PAPER 137 :: Языки славянских диаспор: социолингвистический статус, проблемы и перспективы изучения
+>>1Тараненко А.А. (Украіна)
+PERSON 548 Тараненко А.А.
+PAPER 138 :: Язык украинской западной диаспоры и современная языковая ситуация в Украине (на общеславянском фоне)
+>>1Arkhanhelska Alla (Чэхія)
+PERSON 6 Arkhanhelska Alla
+PAPER 139 :: Языковая ситуация в славянских странах и вопросы лингвоэкологии
+>>1Moracci Giovanna (Італія)
+PERSON 152 Moracci Giovanna
+PAPER 140 :: Заимствованные слова итальянского происхождения в русском языке XVII-XVIII вв.
+code 1.4.6
+date 22 time 11.30 - 13.00
+place аўдыторыя IX
+>>1Dumitrescu Maria (Румынія)
+PERSON 46 Dumitrescu Maria
+PAPER 141 :: Развитие лексической системы русского языка актуального периода и вопросы составления двуязычного словаря
+>>1Armianov Gueorgui (Францыя)
+PERSON 7 Armianov Gueorgui
+PAPER 142 :: L'évolution du système grammatical et lexical de la langue bulgare après 1989
+>>1Janssen Bibi (Нідэрланды)
+PERSON 88 Janssen Bibi
+PAPER 143 :: Case and gender proficiency of Dutch-Russian bilingual children
+code 1.4.7
+date 22 time 14.30 - 16.00
+place аўдыторыя IX
+>>1Anstatt Tanja (Германія)
+PERSON 5 Anstatt Tanja
+PAPER 144 :: Польский язык во втором поколении эмигрантов. Оценка грамматичности польских предложений молодыми билингвами в Германии
+>>1Пилипенко Г.П. (Расія)
+PERSON 492 Пилипенко Г.П.
+PAPER 145 :: Двуязычное образование в полиэтничных славянских регионах (Воеводина и Прекмурье): социолингвистический аспект
+>>1Perotto Monica (Італія)
+PERSON 173 Perotto Monica
+PAPER 146 :: Витальность русского языка во втором поколении русскоязычной иммиграции в Италию: опыт "субботних школ"
+code 1.4.8
+date 22 time 16.30 - 18.00
+place аўдыторыя IX
+>>1Peeters-Podgaevskaja Alla (Нідэрланды)
+PERSON 171 Peeters-Podgaevskaja Alla
+PAPER 147 :: К вопросу о выражении категории "определенности-неопределенности" двуязычными русско-нидерландскими детьми
+>>1Вачкова Кина (Балгарыя)
+PERSON 332 Вачкова Кина
+PAPER 148 :: Съвременното българско езиково право
+>>1Wingender Monika (Германія)
+PERSON 250 Wingender Monika
+PAPER 149 :: Языковая политика Российской Федерации с точки зрения республик - на примере Поволжского региона
+code 1.4.9
+date 23 time 9.00 - 11.00
+place аўдыторыя IX
+>>1Дуличенко А.Д. (Эстонія)
+PERSON 366 Дуличенко А.Д.
+PAPER 150 :: Феномен славянских микрофилологий в современном славяноведении
+>>1Káprály Mihály (Венгрыя)
+PERSON 97 Káprály Mihály
+PAPER 151 :: Современные русинские литературные микроязыки
+>>1Krause Marion (Германія)
+PERSON 115 Krause Marion
+PAPER 152 :: Имидж региональных разновидностей как индикатор социо- и металингвистической компетенции
+code 1.4.10
+date 24 time 9.00 - 11.00
+place аўдыторыя IX
+>>1Woolhiser Curt (ЗША)
+PERSON 255 Woolhiser Curt
+PAPER 153 :: Новыя беларускамоўныя: Металінгвістычны дыскурс, сацыяльная ідэнтычнасць і моўны узус
+>>1Рычкова Л.В. (Беларусь)
+PERSON 523 Рычкова Л.В.
+PAPER 154 :: "Матчына мова" и национальное развитие: зачем нужна специальная лексика родному языку
+>>1Brüggemann Mark (Германія)
+PERSON 29 Brüggemann Mark
+PAPER 155 :: Zbędny język białoruski, niezbędny rosyjski? Rosyjskojęzyczna inteligencja Białorusi o sytuacji językowej w kraju
+>>2Golachowska Ewa, Krasowska Helena (Польшча)
+PERSON 67 Golachowska Ewa
+PERSON 114 Krasowska Helena
+PAPER 156 :: Czy powstaje "nowa polszczyzna kresowa"?
+code 1.4.11
+date 24 time 11.30 - 13.00
+place аўдыторыя IX
+>>1Колева Красимира (Балгарыя)
+PERSON 414 Колева Красимира
+PAPER 157 :: Идентификация и самоидентификация горанов
+>>1Йоканович-Михайлов Елица (Сербія)
+PERSON 388 Йоканович-Михайлов Елица
+PAPER 158 :: Просодия и проблема идентификации и самоидентификации
+>>5Соколова С.О., Масенко Л.Т., Труб В.М., Данилевская О.Н., Руда Е.Г. (Украіна)
+PERSON 533 Соколова С.О.
+PERSON 445 Масенко Л.Т.
+PERSON 560 Труб В.М.
+PERSON 358 Данилевская О.Н.
+PERSON 520 Руда Е.Г.
+PAPER 159 :: Типы языкового поведения в современном славянском билингвальном мегаполисе
+code 1.4.12
+date 22 time 9.00 - 11.00
+place аўдыторыя X
+>>2Sesar Dubravka, Tafra Branka (Харватыя)
+PERSON 204 Sesar Dubravka
+PERSON 223 Tafra Branka
+PAPER 160 :: Teorijski temelji književnojezične periodizacije u slavistici
+>>1Остапчук О.А. (Расія)
+PERSON 484 Остапчук О.А.
+PAPER 161 :: Украинский литературный язык в свете социолингвистической типологии славянских языков
+>>2Čelić Željka, Fuderer Tetyana (Харватыя)
+PERSON 34 Čelić Željka
+PERSON 56 Fuderer Tetyana
+PAPER 162 :: Modeli jezičnih situacija u hrvatskome, ukrajinskome i ruskome
+>>1Głuszkowski Michał (Польшча)
+PERSON 66 Głuszkowski Michał
+PAPER 163 :: Bilingwizm z dyglosją w sytuacji wyspowej. Polska wieś Wierszyna na Syberii
+>>1Jobert Véronique (Францыя)
+PERSON 92 Jobert Véronique
+PAPER 164 :: Pratique du multilinguisme dans une correspondance privée russe au XX° siècle
+code 1.4.13
+date 22 time 11.30 - 13.00
+place аўдыторыя X
+>>1Pineda David (Нарвегія)
+PERSON 175 Pineda David
+PAPER 165 :: Переключение кодов или заимствование? Несколько слов о двуязычии среди русских саамов
+>>1Zinkevich Andrej (Аўстрыя)
+PERSON 266 Zinkevich Andrej
+PAPER 166 :: Нарушения речи в ситуации смешения близкородственных языков (на примере нарушения речи у носителей белорусско-русского смешанного языка)
+>>1Menzel Thomas (Германія)
+PERSON 145 Menzel Thomas
+PAPER 167 :: Characteristics of the use of pronouns in Byelarusian-Russian and Ukrainian-Russian mixed speech (with respect to the theory of markedness)
+code 1.4.14
+date 22 time 14.30 - 16.00
+place аўдыторыя X
+>>1Engelking Anna (Польшча)
+PERSON 49 Engelking Anna
+PAPER 168 :: Kategoria "mieszana mowa" w ujęciu mieszkańców pogranicza językowego na Grodzieńszczyźnie. Spojrzenie antropologa
+>>1Tesch Sviatlana (Германія)
+PERSON 227 Tesch Sviatlana
+PAPER 169 :: Морфосинтаксические феномены в смешанной белорусско-русской речи: предложные конструкции
+>>1Zeller Jan Patrick (Германія)
+PERSON 291 Zeller Jan Patrick
+PAPER 170 :: Звуковое варьирование в белорусско-русской смешанной речи
+code 1.5.1
+date 22 time 16.30 - 18.00
+place аўдыторыя X
+>>1Нікіцевіч А.В. (Беларусь)
+PERSON 479 Нікіцевіч А.В.
+PAPER 171 :: Межъязыковые лакуны и диалектное словообразование в близкородственных языках
+>>1Stefanovic Aleksandar (Францыя)
+PERSON 216 Stefanovic Aleksandar
+PAPER 172 :: Approximation by Numerals in BCMS (Bosnian-Croatian-Montenegrin-Serbian) Language
+>>1Клименко Н.Ф. (Украіна)
+PERSON 405 Клименко Н.Ф.
+PAPER 173 :: Основосложение в процессах номинации современных восточнославянских языков (в сопоставлении с новогреческим и немецким)
+code 1.5.2
+date 23 time 9.00 - 11.00
+place аўдыторыя X
+>>1Дыбо В.А. (Расія)
+PERSON 368 Дыбо В.А.
+PAPER 174 :: Балто-славянская акцентная система и итоги индоевропейской акцентологической реконструкции
+>>1Антонова-Василева Лучия (Балгарыя)
+PERSON 300 Антонова-Василева Лучия
+PAPER 175 :: Зависимост между акцента и фонетичните характеристики на гласните в южните славянски езици на диалектно равнище
+>>1Lagerburg Robert (Аўстралія)
+PERSON 123 Lagerburg Robert
+PAPER 176 :: Zalizniak's pragmatic factor and its relationship to stress variation in russian
+>>1Лаброска Веселинка (Македонія)
+PERSON 430 Лаброска Веселинка
+PAPER 177 :: Од фонетско-фонолошките особености во македонскиот и во словенечкиот јазик
+code 1.5.3
+date 23 time 11.30 - 13.00
+place аўдыторыя X
+>>1Куцаров Иван Костадинов (Балгарыя)
+PERSON 604 Куцаров Иван Костадинов
+PAPER 178 :: За плана на изразяване на морфологичните категории в съвременните славянски езици
+>>1Храковский В.С. (Расія)
+PERSON 572 Храковский В.С.
+PAPER 179 :: Грамматика и лексика: пограничная зона
+>>1Tošović Branko (Аўстрыя)
+PERSON 232 Tošović Branko
+PAPER 180 :: Morphologische Generierung von Substantiven des Serbischen, Kroatischen, Bosni(aki)schen und Montenegrinischen
+>>1Кликовац Душка (Сербія)
+PERSON 404 Кликовац Душка
+PAPER 181 :: Грамматическая категория лица указательных слов
+code 1.5.4
+date 24 time 9.00 - 11.00
+place аўдыторыя X
+>>1Пипер Предраг (Сербія)
+PERSON 493 Пипер Предраг
+PAPER 182 :: Граматические средства выражения исключения в славянских языках
+>>1Łaziński Marek (Польшча)
+PERSON 125 Łaziński Marek
+PAPER 183 :: Statystyka funkcji bezokolicznika w języku polskim, czeskim i rosyjskim
+>>1Маровска Вера Тервел (Балгарыя)
+PERSON 609 Маровска Вера Тервел
+PAPER 184 :: Лингвистични аспекти на референцията (части на речта и граматични категории)
+>>1Wonisch Arno (Аўстрыя)
+PERSON 254 Wonisch Arno
+PAPER 185 :: Möglichkeiten des Ausdrucks pronominaler Indefinität in der Slawia
+code 1.5.5
+date 24 time 11.30 - 13.00
+place аўдыторыя X
+>>1Поповиħ Људмила (Сербія)
+PERSON 498 Поповиħ Људмила
+PAPER 186 :: О перфекту и плусквамперфекту у словенским jезицима (на примеру контрастивне анализе српског и источнословенских jезика)
+>>2Рахилина Е.В., Летучий А.Б. (Расія)
+PERSON 512 Рахилина Е.В.
+PERSON 432 Летучий А.Б.
+PAPER 187 :: Начальная стадия грамматикализации значений глагольной множественности в квазиграмматических конструкциях
+>>1Kosta Peter (Германія)
+PERSON 111 Kosta Peter
+PAPER 188 :: Радикально минималистский взгляд на пустыe категории: L1-Приобретение, онтология и обоснование нулевой категории проформы
+>>1Драгичевич Райна (Сербія)
+PERSON 365 Драгичевич Райна
+PAPER 189 :: Глаголы с двумя приставками в сербском и других южнославянских языках
+code 1.5.6
+date 23 time 11.30 - 13.00
+place аўдыторыя IX
+>>1Плунгян В.А. (Расія)
+PERSON 497 Плунгян В.А.
+PAPER 190 :: Парадигматика русского склонения: опыт типологической оценки
+>>1Иванова Ирина (Швейцарыя)
+PERSON 378 Иванова Ирина
+PAPER 191 :: "Синтаксис русского языка" А. Шахматова и его теоретические источники
+>>2Бурдакова О.Н., Богданова Н.Н. (Эстонія)
+PERSON 323 Бурдакова О.Н.
+PERSON 312 Богданова Н.Н.
+PAPER 192 :: О параметрах оценки современного состояния и развития системы русского глагольного словоизменения
+code 1.5.7
+date 22 time 9.00 - 11.00
+place аўдыторыя XI
+>>1Канюшкевіч М.І. (Беларусь)
+PERSON 393 Канюшкевіч М.І.
+PAPER 193 :: З вопыту атрыбуцыі славянскага прыназоўніка
+>>1Дымарский М.Я. (Расія)
+PERSON 369 Дымарский М.Я.
+PAPER 194 :: От моделей предложения - к моделированию высказывания
+>>1Trawinski Beata (Аўстрыя)
+PERSON 234 Trawinski Beata
+PAPER 195 :: Stylistic Profiles of Polish Secondary Prepositions
+>>2Belaj Branimir, Kuna Branko (Харватыя)
+PERSON 13 Belaj Branimir
+PERSON 120 Kuna Branko
+PAPER 196 :: Kategorija egzistencijalnosti u hrvatskom jeziku
+code 1.5.8
+date 22 time 11.30 - 13.00
+place аўдыторыя XI
+>>1Barentsen Adrian (Нідэрланды)
+PERSON 10 Barentsen Adrian
+PAPER 197 :: О некоторых особенностях в области таксиса следования в славянских языках
+>>1Łuczków Iwona (Польшча)
+PERSON 130 Łuczków Iwona
+PAPER 198 :: Semantyka taxis a sygnalizowanie granic czasowych sytuacji taktycznych (na materiale języka polskiego i rosyjskiego)
+>>1Иванова Ценка (Балгарыя)
+PERSON 379 Иванова Ценка
+PAPER 199 :: Колокацията като междуславянски диференциален признак (с оглед на южнославянските езици)
+code 1.5.9
+date 22 time 14.30 - 16.00
+place аўдыторыя XI
+>>1Stramljič Breznik Irena (Славенія)
+PERSON 285 Stramljič Breznik Irena
+PAPER 200 :: Medmet (interekcija) kot tvorbeni potencial slovenskih tvorjenk
+>>1Младенова Маргарита (Балгарыя)
+PERSON 457 Младенова Маргарита
+PAPER 201 :: Посесивност и екзистенциалност в чешкия и българския език
+>>1Bernitskaïa Natalia (Францыя)
+PERSON 17 Bernitskaïa Natalia
+PAPER 202 :: L'influence de l'ordre des mots en russe contemporain sur l'interprétation des relations temporelles
+>>1Kranjc Ivič Mira (Славенія)
+PERSON 277 Kranjc Ivič Mira
+PAPER 203 :: Implikativno komuniciranje in oblikovanje soslednih parov (na gradivu v in o slovenskem jeziku)
+code 1.5.10
+date 22 time 16.30 - 18.00
+place аўдыторыя XI
+>>1Bracquenier Christine (Францыя)
+PERSON 22 Bracquenier Christine
+PAPER 204 :: Circonstants et spécifiants : vers une nouvelle analyse sémantico-syntaxique de la phrase russe
+>>1Танасич Срето (Сербія)
+PERSON 547 Танасич Срето
+PAPER 205 :: Сочетание союза и частицы в координированных конструкциях
+>>1Žele Andreja (Славенія)
+PERSON 261 Žele Andreja
+PAPER 206 :: Leksikalno-skladenjske spremembe v sodobni slovenščini
+code 1.5.11
+date 23 time 9.00 - 11.00
+place аўдыторыя XI
+>>1Šipková Milena (Чэхія)
+PERSON 210 Šipková Milena
+PAPER 207 :: Co je nářeční syntax?
+>>1Чакърова Красимира (Балгарыя)
+PERSON 576 Чакърова Красимира
+PAPER 208 :: Типология на оптативните конструкции в българския, руския и полския език
+>>1Ковачевич Милош (Сербія)
+PERSON 411 Ковачевич Милош
+PAPER 209 :: Предикативное приложение без непосредственной синтаксической связи с предикатом
+>>1Guentchéva Zlatka (Францыя)
+PERSON 72 Guentchéva Zlatka
+PAPER 210 :: L'emploi des formes médiatives dans les proverbes: le cas du bulgare
+code 1.5.12
+date 23 time 11.30 - 13.00
+place аўдыторыя XI
+>>1Gvozdanovic Jadranka (Германія)
+PERSON 73 Gvozdanovic Jadranka
+PAPER 211 :: Vid kao višerazinski fenomen u diskursu
+>>1Каранфиловски Максим (Македонія)
+PERSON 395 Каранфиловски Максим
+PAPER 212 :: Глаголскиот вид во негираните форми на императивот во македонскиот јазик и во другите словенски јазици
+>>1Berger Tilman (Германія)
+PERSON 16 Berger Tilman
+PAPER 213 :: Глаголы несовершенного вида и последовательность действий в западнославянских языках
+>>1Пчелинцева Е.Э. (Украіна)
+PERSON 503 Пчелинцева Е.Э.
+PAPER 214 :: Аспектуальность отглагольных имен действия в русском, украинском и польском языках
+code 1.5.13
+date 24 time 9.00 - 11.00
+place аўдыторыя XI
+>>1Шчэрбін В.К. (Беларусь)
+PERSON 587 Шчэрбін В.К.
+PAPER 215 :: Методология выявления ключевых тенденций в развитии славянской лексикографии
+>>1Scheller-Boltz Dennis (Германія)
+PERSON 201 Scheller-Boltz Dennis
+PAPER 216 :: Сопоставительный диахронический анализ качества двуязычных словарей - Или: Что сегодня могут ожидать переводчики от двуязычного словаря?
+>>4Иващенко В.Л., Казимирова И.А., Туровская Л.В., Яценко Н.А. (Украіна)
+PERSON 380 Иващенко В.Л.
+PERSON 391 Казимирова И.А.
+PERSON 562 Туровская Л.В.
+PERSON 590 Яценко Н.А.
+PAPER 217 :: Современное славянское терминоведение: основные направления исследований
+>>2Kiklewicz Aleksander, Korytkowska Małgorzata (Польшча)
+PERSON 100 Kiklewicz Aleksander
+PERSON 108 Korytkowska Małgorzata
+PAPER 218 :: Eksplikacyjny model opisu składniowego i jego zastosowanie w leksykografii języków słowiańskich (na przykładzie języka polskiego i rosyjskiego)
+code 1.5.14
+date 24 time 11.30 - 13.00
+place аўдыторыя XI
+>>1Belentschikow Renate (Германія)
+PERSON 14 Belentschikow Renate
+PAPER 219 :: Вариативность и проблемы лексикографической кодификации (на материале "Русско-Немецкого словаря" Майнцской Академии наук)
+>>2Menac-Mihalić Mira, Frančić Anđela (Харватыя)
+PERSON 143 Menac-Mihalić Mira
+PERSON 54 Frančić Anđela
+PAPER 220 :: Istraživanje i leksikografska obradba hrvatske dijalektne frazeologije
+>>1Bartels Hauke (Германія)
+PERSON 11 Bartels Hauke
+PAPER 221 :: "SorbLex Dolnoserbšćina" - Ku koncepciji historisko-dokumentěrujucego informaciskego systema dolnoserbskego słowoskłada
+code 1.5.15
+date 22 time 9.00 - 11.00
+place аўдыторыя XII
+>>1Прыгодзіч М.Р. (Беларусь)
+PERSON 502 Прыгодзіч М.Р.
+PAPER 222 :: Індывідуальна-аўтарская неалагізацыя ў сучасных славянскіх мовах
+>>1Nagel Lydia (Аўстрыя)
+PERSON 158 Nagel Lydia
+PAPER 223 :: Personenreferenz in zeitgenössischen Dramentexten
+>>1Scharlaj Marina (Германія)
+PERSON 200 Scharlaj Marina
+PAPER 224 :: За горизонтом вертикального времени. Язык в литературной (анти)утопии
+>>1Radünzel Claudia (Германія)
+PERSON 185 Radünzel Claudia
+PAPER 225 :: Структура и развитие лексических средств именования инвалидов в различных славянских языках
+code 1.5.16
+date 22 time 11.30 - 13.00
+place аўдыторыя XII
+>>1Коваль У.І. (Беларусь)
+PERSON 410 Коваль В.И.
+PAPER 226 :: Историко-этимологический анализ славянской фразеологии в свете современных компьютерных технологий
+>>2Metz E., Novitskaya O. (Бельгія)
+PERSON 146 Metz E.
+PERSON 161 Novitskaya O.
+PAPER 227 :: О проблеме эквивалентности перевода фразеологических единиц: на примере русско-нидерландского фразеологического словаря
+>>1Konickaja Jelena (Літва)
+PERSON 106 Konickaja Jelena
+PAPER 228 :: Vloga težnje po jezikovni gospodarnosti pri nastanku slovenskih frazemov (ob primerjavi z ruskimi)
+code 1.5.17
+date 22 time 14.30 - 16.00
+place аўдыторыя XII
+>>1Карпиловская Е.А. (Украіна)
+PERSON 397 Карпиловская Е.А.
+PAPER 229 :: NO TITLE
+>>1Роўда І.С. (Беларусь)
+PERSON 519 Роўда І.С.
+PAPER 230 :: Абсалютны і адносны характар безэквівалентнасці (на матэрыяле рускай, беларускай і чэшскай моў)
+>>1Лукінова Т.Б. (Украіна)
+PERSON 434 Лукінова Т.Б.
+PAPER 231 :: Семантичні зміни в запозичених в українську мову словах
+code 1.5.18
+date 22 time 16.30 - 18.00
+place аўдыторыя XII
+>>1Мршевич-Радович Драгана (Сербія)
+PERSON 467 Мршевич-Радович Д.
+PAPER 232 :: Сербская фразеология и европейское культурное наследие
+>>1Košková Mária (Славакія)
+PERSON 110 Košková Mária
+PAPER 233 :: Frazeologické aspekty bulharsko-slovenského slovníka
+>>1Даниленко Л.И. (Украіна)
+PERSON 359 Даниленко Л.И.
+PAPER 234 :: Чешский паремиологический фонд: культурно-исторические источники формирования и тенденции развития
+code 1.5.19
+date 23 time 9.00 - 11.00
+place аўдыторыя ХII
+>>1Бондарко А.В. (Расія)
+PERSON 316 Бондарко А.В.
+PAPER 235 :: Анализ элементов текста в системе функциональной грамматики
+>>1Trovesi Andrea (Італія)
+PERSON 236 Trovesi Andrea
+PAPER 236 :: Valori pragmatici nell'uso di vocativo e nominativo in funzione di appello nelle lingue slave
+>>1Минлос Ф.Р. (Расія)
+PERSON 452 Минлос Ф.Р.
+PAPER 237 :: Расположение согласуемых атрибутов в именной группе славянских языков
+>>1Радзиевская Т.В. (Украіна)
+PERSON 508 Радзиевская Т.В.
+PAPER 238 :: Дискурсивные аспекты динамики украинского языка в контексте активных языковых процессов в славянском мире
+code 1.5.20
+date 23 time 11.30 - 13.00
+place аўдыторыя ХII
+>>1Норман Б.Ю. (Беларусь)
+PERSON 481 Норман Б.Ю.
+PAPER 239 :: Псевдовысказывания в славянских языках как речевой феномен
+>>1Иванова Е.Ю. (Расія)
+PERSON 377 Иванова Е.Ю.
+PAPER 240 :: Сентенциальные клитики в русском и южнославянских языках
+>>1Rathmayr Renate (Аўстрыя)
+PERSON 187 Rathmayr Renate
+PAPER 241 :: Менеджерский дискурс в русском деловом общении
+code 1.5.21
+date 24 time 9.00 - 11.00
+place аўдыторыя ХII
+>>1Князев Ю.П. (Расія)
+PERSON 408 Князев Ю.П.
+PAPER 242 :: Средства выражения взаимного значения в славянских языках
+>>1Birzer Sandra (Германія)
+PERSON 20 Birzer Sandra
+PAPER 243 :: Formal unity and functional diversity: the Russian adverbial participle govorja 'speaking' between discourse and grammar
+>>1Biagini Francesca (Італія)
+PERSON 19 Biagini Francesca
+PAPER 244 :: "Дух языка": общие варианты и различный выбор для выражения целевого отношения в итальянском и в русском языках
+>>1Zhirovova A.N. (Бельгія)
+PERSON 264 Zhirovova A.N.
+PAPER 245 :: Концепты "власть/право" в дискурсе русскоязыных мигрантов четвертой волны в Бельгии
+code 1.6.1
+date 22 time 9.00 - 11.00
+place аўдыторыя V
+>>1Niebrzegowska-Bartmińska Stanisława (Польшча)
+PERSON 159 Niebrzegowska-Bartmińska Stanisława
+PAPER 246 :: Stereotypy a wartości w językowym obrazie świata
+>>1Ристич Стана (Сербія)
+PERSON 515 Ристич Стана
+PAPER 247 :: Элементы языковой картины мира в дескриптивной лексикографии - языковые и культурные стереотипы
+>>1Седакова И.А. (Расія)
+PERSON 527 Sedakowa Irina
+PAPER 248 :: О 'легкости' и 'тяжести/трудности' в языке и культуре славян: этнолингвистический анализ
+>>1Шевченко Л.И. (Украіна)
+PERSON 582 Шевченко Л.И.
+PAPER 249 :: Колористика в массовом языковом сознании славянских социумов
+code 1.6.2
+date 22 time 11.30 - 13.00
+place аўдыторыя V
+>>1Березович Е.Л. (Расія)
+PERSON 310 Berezovič Elena
+PAPER 250 :: К типологии метафоры: вторичные значения лексем "мачеха", "вдова", "сирота", "холостяк" в славянских языках (на иноязычном фоне)
+>>1Домиловская Л.В. (Украіна)
+PERSON 364 Домиловская Л.В.
+PAPER 251 :: Лингвистическая интерпретация символа огонь в неоромантическом славянском тексте
+>>1Китанова Мария (Балгарыя)
+PERSON 402 Китанова Мария
+PAPER 252 :: Културни доминанти при реконструиране на концепта време в български и руски език
+code 1.6.3
+date 22 time 14.30 - 16.00
+place аўдыторыя V
+>>1Колосова В.Б. (Расія)
+PERSON 416 Колосова В.Б.
+PAPER 253 :: Народная этимология и этимологическая магия в славянской народной ботанике
+>>1Sawaniewska-Mochowa Zofia (Польшча)
+PERSON 198 Sawaniewska-Mochowa Zofia
+PAPER 254 :: Językowo-kulturowy obraz domu szlachecko-ziemiańskiego w polszczyźnie północnokresowej
+>>1Юдкин И.Н. (Украіна)
+PERSON 588 Юдкин И.Н.
+PAPER 255 :: Перифрастические образные средства в славянских художественных картинах мира
+code 1.6.4
+date 22 time 16.30 - 18.00
+place аўдыторыя V
+>>1Kabakova Galina (Францыя)
+PERSON 93 Kabakova Galina
+PAPER 256 :: "L'anatomie naïve" dans les langues slaves: le cas du système digestif
+>>1Пеянович Aнна (Чарнагорыя)
+PERSON 490 Пеянович Aнна
+PAPER 257 :: Постоянные эпитеты как этнокультурные маркеры
+code 1.6.5
+date 23 time 9.00 - 11.00
+place аўдыторыя V
+>>1Бојовић Драга (Чарнагорыя)
+PERSON 315 Бојовић Драга
+PAPER 258 :: Национално-културна специфика у фразеологији: реалност или фикција?
+>>2Grgić Ana, Nikolić Davor (Харватыя)
+PERSON 70 Grgić Ana
+PERSON 160 Nikolić Davor
+PAPER 259 :: Nomen est culturae omen - Vosijanske antonomazije u različitim kulturama/jezicima
+>>1Чакърова-Бурлакова Юлиана (Балгарыя)
+PERSON 577 Чакърова-Бурлакова Юлиана
+PAPER 260 :: О некоторых околоядерных репрезентантах концепта истина в русских и болгарских переводах Библии
+>>2Веновска-Антевска Снежана, Маленко Билjана (Македонія)
+PERSON 334 Веновска-Антевска Снежана
+PERSON 440 Маленко Билjана
+PAPER 261 :: Лингвокультурните аспекти преку асоциjативниот метод каj jужните словенски jaзици
+code 1.6.6
+date 23 time 11.30 - 13.00
+place аўдыторыя V
+>>1Graf Elena (Германія)
+PERSON 68 Graf Elena
+PAPER 262 :: Прагматикализация и грамматикализация в языке
+>>1Kretschmer Anna (Аўстрыя)
+PERSON 117 Kretschmer Anna
+PAPER 263 :: Руссская частная переписка XVII и начала XVIII вв. (социо- и прагмалингвистический анализ)
+>>2Брицин В.М., Мозгунов В.В. (Украіна)
+PERSON 319 Брицин В.М.
+PERSON 458 Мозгунов В.В.
+PAPER 264 :: Когнитивная теория модальности и ее интерпретационный потенциал: на материале восточнославянского художественного дискурса
+code 1.7.1
+date 24 time 9.00 - 11.00
+place аўдыторыя V
+>>1Широков В.А. (Украіна)
+PERSON 584 Широков В.А.
+PAPER 265 :: Системная семантика толковых словарей
+>>1Tošović Branko (Аўстрыя)
+PERSON 232 Tošović Branko
+PAPER 266 :: Гралис-Корпус
+>>2Breu Walter, Adamou Evangelia (Германія)
+PERSON 25 Breu Walter
+PERSON 1 Adamou Evangelia
+PAPER 267 :: Präsentation von slavischen Mikrosprachen in der elektronischen Datenbank "EuroSlav 2010"
+>>1Scholze Lenka (Германія)
+PERSON 202 Scholze Lenka
+PAPER 268 :: Wuskutkowanje rěčneho kontakta na słowoslěd w hornjoserbskej wobchadnej rěči
+code 1.7.2
+date 24 time 11.30 - 13.00
+place аўдыторыя V
+>>1Stolac Diana (Харватыя)
+PERSON 219 Stolac Diana
+PAPER 269 :: Hrvatski prinos bazama strukovnoga nazivlja
+>>1Brehmer Bernhard (Германія)
+PERSON 24 Brehmer Bernhard
+PAPER 270 :: Выбор языка и переключение кодов в двуязычной электронной коммуникации: славянско-немецкие двуязычные группы в социальной сети StudiVZ
+>>1Paulsen Martin (Нарвегія)
+PERSON 170 Paulsen Martin
+PAPER 271 :: Will the Internet save the Belarusian language?
+>>2Маленко Билjана, Веновска-Антевска Снежана (Македонія)
+PERSON 440 Маленко Билjана
+PERSON 334 Веновска-Антевска Снежана
+PAPER 272 :: Употребата на словенските jазици на интернет и на социjалните мрежи
+code 2.1.1
+date 22 time 9.00 - 11.00
+place аўдыторыя IV
+>>1Швед І.А. (Беларусь)
+PERSON 581 Швед І.А.
+PAPER 273 :: Колеравы код тэкстаў абрадаў жыццёвага цыкла беларусаў (на агульнаславянскім фоне)
+>>1Mardosa Jonas (Літва)
+PERSON 133 Mardosa Jonas
+PAPER 274 :: Дэкаратыўныя вербы ў Заходняй Беларусі і Усходняй Літве ў другой палове ХХ - пачатку ХХI стагоддзя
+>>1Корний Л.П. (Украіна)
+PERSON 419 Корний Л.П.
+PAPER 275 :: Лютневая музыка эпохи Ренессанса и ее роль в развитии музыкального искусства Польши, Украины и Беларуси ХVI―ХVII вв.
+>>1Мажэйка Зінаіда (Беларусь)
+PERSON 436 Мажэйка Зінаіда
+PAPER 276 :: Аўтэнтычны песенны фальклор і постфальклор у святле сацыяльна-экалагічных праблем усходнеславянскай нематэрыяльнай культуры
+code 2.1.2
+date 22 time 11.30 - 13.00
+place аўдыторыя IV
+>>1Wrocławski Krzysztof (Польшча)
+PERSON 256 Wrocławski Krzysztof
+PAPER 277 :: O potrzebie powrotu do metody geograficzno-historycznej w studiach nad ludową prozą słowiańską
+>>1Шарая В.М. (Беларусь)
+PERSON 580 Шарая В.М.
+PAPER 278 :: Сацыякультурныя асаблівасці родавых уяўленняў славян у кантэксце традыцыйнай духоўнай культуры еўрапейскіх народаў
+>>1Мушкетик Л.Г. (Украіна)
+PERSON 468 Мушкетик Л.Г.
+PAPER 279 :: Образ венгерского короля Матяша в фольклоре славян: исследования и дискуссии
+>>1Карацуба М.Ю. (Украіна)
+PERSON 396 Карацуба М.Ю.
+PAPER 280 :: Современные фольклористические исследования в Хорватии и в Украине
+code 2.1.3
+date 22 time 14.30 - 16.00
+place аўдыторыя IV
+>>1Раденкович Любинко (Сербія)
+PERSON 507 Раденкович Любинко
+PAPER 281 :: Славянская народная демонология в синхронном и диахронном плане
+>>2Микитенко О.О., Огиенко И.С. (Украіна)
+PERSON 451 Микитенко О.О.
+PERSON 482 Огиенко И.С.
+PAPER 282 :: Славянская мифология и славянские верования: модели интерпретации
+>>1Белова О.В. (Расія)
+PERSON 309 Белова О.В.
+PAPER 283 :: Легенды пограничья: ареалогия, сюжетика, топика
+>>1Михайлова Катя (Балгарыя)
+PERSON 454 Михайлова Катя
+PAPER 284 :: Народният култ към свети Петър в славянския фолклор
+code 2.1.4
+date 22 time 16.30 - 18.00
+place аўдыторыя IV
+>>2Marjanić Suzana, Zaradija Kiš Antonija (Харватыя)
+PERSON 136 Marjanić Suzana
+PERSON 290 Zaradija Kiš Antonija
+PAPER 285 :: Zoofolkloristika: pregled rezultata prvog kulturnoanimalističkoga projekta u Hrvatskoj
+>>1Lavrov Aleksandr (Францыя)
+PERSON 124 Lavrov Aleksandr
+PAPER 286 :: Les plaintes et les dépositions des baladins russes (skomoroxi) comme source historiqe
+>>1Thielemann Nadine (Германія)
+PERSON 229 Thielemann Nadine
+PAPER 287 :: Как рассказывается анекдот по-русски
+code 2.1.5
+date 23 time 9.00 - 11.00
+place аўдыторыя IV
+>>1Агапкина Т.А. (Расія)
+PERSON 293 Агапкина Т.А.
+PAPER 288 :: Славянские заговоры от змей: общность и локальные особенности
+>>1Velmezova Ekaterina (Швейцарыя)
+PERSON 242 Velmezova Ekaterina
+PAPER 289 :: Народные молитвы и заговоры в чешском фольклоре: анализ текста в свете истории русской этнолингвистики и фольклористики
+>>1Yudin O. (Бельгія)
+PERSON 257 Yudin O.
+PAPER 290 :: О методах сопоставительного изучения ономастики восточнославян-ского магического фольклора
+>>1Marks Ljiljana (Харватыя)
+PERSON 137 Marks Ljiljana
+PAPER 291 :: Hrvatske pučke molitvice: formulnost i metaforika
+code 2.1.6
+date 23 time 11.30 - 13.00
+place аўдыторыя IV
+>>1Валодзіна Т.В. (Беларусь)
+PERSON 326 Валодзіна Т.В.
+PAPER 292 :: Уяўленні славян пра калецтвы і цялесныя хібы ў этнасеміятычнай перспектыве
+>>1Мороз А.Б. (Расія)
+PERSON 463 Мороз А.Б.
+PAPER 293 :: Легенда о жертвенном олене: география, варианты, источники, параллели
+>>1Urbancová Viera (Славакія)
+PERSON 239 Urbancová Viera
+PAPER 294 :: Piesne a obrady letného slnovratu na Slovensku ako súčasť slovanskej kultúrnej tradície
+>>1Frolcová Věra (Чэхія)
+PERSON 55 Frolcová Věra
+PAPER 295 :: Koleda mezi křesťanským Východem a Západem: k biblickým a apokryfním námětům ve folkloru
+code 2.1.7
+date 24 time 9.00 - 11.00
+place аўдыторыя IV
+>>1Ковпик В.А. (Расія)
+PERSON 412 Ковпик В.А.
+PAPER 296 :: Генетические связи былины "Алеша Попович и сестра братьев Петровичей" и славянских баллад о гибели обесчещенной сестры
+>>1Hlôšková Hana (Славакія)
+PERSON 78 Hlôšková Hana
+PAPER 297 :: Naratívy s veľkomoravskou tematikou v kolektívnej historickej pamäti Slovákov
+>>1Сувайджич Бошко (Сербія)
+PERSON 543 Сувайджич Бошко
+PAPER 298 :: Перед воротами Траяна: эпический образ Старины Новака у сербов и болгар
+>>1Ичиро Ито (Японія)
+PERSON 384 Ичиро Ито
+PAPER 299 :: Славянские сказки о двенадцати месяцах
+>>1Порицкая С.И. (Украіна)
+PERSON 499 Порицкая С.И.
+PAPER 300 :: Сюжетные и структурно-типологические параллели в украинских, белорусских и польских балладах
+code 2.1.8
+date 24 time 11.30 - 13.00
+place аўдыторыя IV
+>>1Žeňuchová Katarína (Славакія)
+PERSON 263 Žeňuchová Katarína
+PAPER 301 :: Kánonické a nekánonické obrazy a ľudová religiozita v prozaickom folklóre slovensko-ukrajinských pohraničných oblastí
+>>1Вахнина Л.К. (Украіна)
+PERSON 331 Вахнина Л.К.
+PAPER 302 :: Роль исполнителя в сохранении славянских фольклорных традиций в локальных регионах
+>>2Botica Stipe, Rudan Evelina (Харватыя)
+PERSON 21 Botica Stipe
+PERSON 193 Rudan Evelina
+PAPER 303 :: Suvremeni pripovjedački repertoari predaja
+>>1Вражиновски Танас (Македонія)
+PERSON 341 Вражиновски Танас
+PAPER 304 :: Народната проза кај македонските иселеници
+code 2.1.9
+date 24 time 9.00 - 11.00
+place аўдыторыя ХVI
+>>1Марозаў А.В. (Беларусь)
+PERSON 444 Марозаў А.В.
+PAPER 305 :: Феномен постфальклору ў сучаснай славянскай культуры
+>>1Brzozowska-Krajka Anna (Польшча)
+PERSON 30 Brzozowska-Krajka Anna
+PAPER 306 :: Między folklorem etnicznym a amerykańską popkulturą: polski styl polki ("Polish-Styles Polka") Eddie'go Błazończyka
+>>1Pejoska-Bouchereau Frosa (Францыя)
+PERSON 172 Pejoska-Bouchereau Frosa
+PAPER 307 :: De l'oralité à l'écriture : La poésie orale dans le théâtremacédonien "du quotidien"
+>>1Kononenko Natalie (Канада)
+PERSON 107 Kononenko Natalie
+PAPER 308 :: Group-Sourcing Ukrainian Folklore: Involving the Community in Research
+>>1Матович Весна (Сербія)
+PERSON 446 Матович Весна
+PAPER 309 :: Фольклорная традиция как импульс и препятствие в сербском модернизме
+code 2.1.10
+date 24 time 11.30 - 13.00
+place аўдыторыя ХVI
+>>1Айдачич Деян (Сербія)
+PERSON 295 Ajdačić Dejan
+PAPER 310 :: Языческие боги любви в славянских литературах
+>>1Protrka Štimec Marina (Харватыя)
+PERSON 282 Protrka Štimec Marina
+PAPER 311 :: Nemogući žanr. Kršćanstvo, bajke i mitologija u Pričama iz Davnine Ivane Brlić-Mažuranić
+>>1Томић Лидија (Чарнагорыя)
+PERSON 554 Томић Лидија
+PAPER 312 :: Словенска митологија и старословенска божанства у роману Бурлеска господина Перуна бога грома Растка Петровића
+>>2Топич Мирослав, Буняк Петар (Сербія)
+PERSON 555 Топич Мирослав
+PERSON 322 Буняк Петар
+PAPER 313 :: Проблемы перевода сербской народной эпики на польский язык: ритм и смысл (на материале польских переводов песен Косовского цикла)
+code 2.2.1
+date 22 time 9.00 - 11.00
+place аўдыторыя VI
+>>1Мельнікава А.М. (Беларусь)
+PERSON 449 Мельнікава А.М.
+PAPER 314 :: Лёс нацыі як дамінантная тэма славянскіх літаратур
+>>1Woldan Alois (Аўстрыя)
+PERSON 252 Woldan Alois
+PAPER 315 :: Обманутая девушка - звено между восточно- и западнославянскими литературами
+>>1Kirschbaum Heinrich (Германія)
+PERSON 101 Kirschbaum Heinrich
+PAPER 316 :: Ревизия и мимикрия. К истории русско-польских литературных связей 1820-х гг.: белорусско-литовская компонента
+>>1Михед П.В. (Украіна)
+PERSON 455 Михед П.В.
+PAPER 317 :: Гоголь и польская литература 30-х - 40-х годов ХІХ в.
+code 2.2.2
+date 22 time 11.30 - 13.00
+place аўдыторыя VI
+>>1Тычына М.А. (Беларусь)
+PERSON 563 Тычына М.А.
+PAPER 318 :: "Mloda Polska", "Молода Украïна", "Маладая Беларусь": ранні мадэрнісцкі дыскурс
+>>1Нахлик Е.К. (Украіна)
+PERSON 471 Нахлик Е.К.
+PAPER 319 :: Сближения и расхождения в украинском и польском литературных процессах в Галиции ХІХ - начала ХХ в.
+>>1Чолакова Жоржета Петрова (Балгарыя)
+PERSON 616 Чолакова Жоржета Петрова
+PAPER 320 :: Хилозоистичният базис на романтическия баладичен пейзаж (Маха, Мицкевич, Пушкин)
+code 2.2.3
+date 22 time 14.30 - 16.00
+place аўдыторыя VI
+>>1Байич Лиляна (Сербія)
+PERSON 305 Байич Лиляна
+PAPER 322 :: Тема бедных людей в сербской и русской литературе: сопоставительный анализ произведений Ф. М. Достоевского и Б. Станковича
+>>1Meić Perina (Боснія і Герцагавіна)
+PERSON 142 Meić Perina
+PAPER 323 :: Književnost bosanskohercegovačkich Hrvata u povijestima hrvatske književnosti
+>>1Козлуджов Запрян Ангелов (Балгарыя)
+PERSON 603 Козлуджов Запрян Ангелов
+PAPER 324 :: Идеите на Ян Мукаржовски за структурно-функционалното битие на изкуството в славянски контекст
+code 2.2.4
+date 22 time 16.30 - 18.00
+place аўдыторыя VI
+>>1Rassokhina Elena (Швецыя)
+PERSON 186 Rassokhina Elena
+PAPER 325 :: True Identity of True Minds. Two Love Stories behind One Sonnet
+>>1Корда-Петрович Александра (Сербія)
+PERSON 417 Корда-Петрович Александра
+PAPER 326 :: Картина Балкан в чешской литературе о путешествиях
+>>1Ibrišimović-Sabić Adijata (Боснія і Герцагавіна)
+PERSON 83 Ibrišimović-Sabić Adijata
+PAPER 327 :: Estetika težine: Mak Dizdar i Osip Mandeljštam
+code 2.2.5
+date 23 time 9.00 - 11.00
+place аўдыторыя VI
+>>1Dunaeva Andreea (Румынія)
+PERSON 47 Dunaeva Andreea
+PAPER 328 :: "Повесть временных лет" и ее восприятие в Румынии
+>>1Поташенко Григорий (Літва)
+PERSON 500 Поташенко Григорий
+PAPER 329 :: "Хронограф Литовский, сиречь Летописец степенный Древлеправославнаго Христианства" как исторический источник и памятник старообрядческой историографической мысли XIX века
+>>1Sulpasso Bianca (Італія)
+PERSON 220 Sulpasso Bianca
+PAPER 330 :: Эволюция литературного образа старообрядца во второй половине XVIII века
+>>1Соболь Валентина (Украіна)
+PERSON 532 Соболь Валентина
+PAPER 331 :: Диариуш Ф. Орлика как славянский памятник. Проблемы палеографии, текстологии, издания
+code 2.2.6
+date 23 time 11.30 - 13.00
+place аўдыторыя VI
+>>1Штэйнер І.Ф. (Беларусь)
+PERSON 586 Штэйнер І.Ф.
+PAPER 332 :: Национальная поэзия в эпоху глобализации: перспективы и проблемы эволюции
+>>1Делич Йован (Сербія)
+PERSON 361 Делич Йован
+PAPER 333 :: Авангард в межвоенный период как генератор модернизации послевоенной сербской поэзии
+>>2Marinković Dušan, Karlić Virna (Харватыя)
+PERSON 135 Marinković Dušan
+PERSON 98 Karlić Virna
+PAPER 334 :: Konceptualizacije književno-jezične tradicije Srba u Hrvatskoj
+>>1Автухович Т.Е. (Беларусь)
+PERSON 292 Автухович Т.Е.
+PAPER 335 :: Современная поэзия восточнославянских народов в антропологической перспективе
+code 2.2.7
+date 24 time 9.00 - 11.00
+place аўдыторыя VI
+>>1Kustanovich Konstantin (ЗША)
+PERSON 122 Kustanovich Konstantin
+PAPER 336 :: The Russian Work Ethic and the Spirit of Capitalism: Socio-Cultural Analysis
+>>1Alaverdian K. (Бельгія)
+PERSON 2 Alaverdian K.
+PAPER 337 :: Художественная деталь в творчестве Л. Н. Толстого
+>>1Вукичевич Драгана (Сербія)
+PERSON 343 Вукичевич Драгана
+PAPER 338 :: Лазаревич и Чехов или смех в белом
+>>1Рудяков П.М. (Украіна)
+PERSON 521 Рудяков П.М.
+PAPER 339 :: Типологія мовчання у творчості І.Андрича
+code 2.2.8
+date 24 time 11.30 - 13.00
+place аўдыторыя VI
+>>1Лявонава Е.А. (Беларусь)
+PERSON 435 Лявонава Е.А.
+PAPER 340 :: Славянские литературы в свете глобализации
+>>5Brtáňová Erika, Hučková Dana, Vaneková Oľga, Mezeiová Adelaida, Kiss-Szemán Róbert (Славакія)
+PERSON 28 Brtáňová Erika
+PERSON 81 Hučková Dana
+PERSON 241 Vaneková Oľga
+PERSON 147 Mezeiová Adelaida
+PERSON 102 Kiss-Szemán Róbert
+PAPER 341 :: Славянскія кантакты Яна Колара
+>>1Jakiša Miranda (Германія)
+PERSON 85 Jakiša Miranda
+PAPER 342 :: Postdramatična utočišta političkoga
+>>1Ананьева Светлана (Казахстан)
+PERSON 299 Ананьева Светлана
+PAPER 343 :: Новейшая русская литература Казахстана
+code 2.3.1
+date 22 time 9.00 - 11.00
+place аўдыторыя ХIІI
+>>1Moroz-Grzelak Lilla (Польшча)
+PERSON 154 Moroz-Grzelak Lilla
+PAPER 344 :: Relacje między światem Slaviae Orthodoxae a Slaviae Romanae w literaturze
+>>1Рождественская М.В. (Расія)
+PERSON 518 Рождественская М.В.
+PAPER 345 :: Древнеславянские переводные апокрифы как явление средневековой литературы
+>>1Moshe Taube (Ізраіль)
+PERSON 156 Moshe Taube
+PAPER 346 :: On the addition in the Slavic Secret of Secrets
+>>1Фумиаки Хаттори (Японія)
+PERSON 568 Фумиаки Хаттори
+PAPER 347 :: On three significant Russian lectionaries
+code 2.3.2
+date 22 time 11.30 - 13.00
+place аўдыторыя ХIІI
+>>2Garzaniti Marcello, Romoli Francesca (Італія)
+PERSON 61 Garzaniti Marcello
+PERSON 189 Romoli Francesca
+PAPER 348 :: Функция библейских цитат в литературе Slavia Orthodoxa
+>>1Духанина А.В. (Расія)
+PERSON 367 Духанина А.В.
+PAPER 349 :: Текстология библейских цитат в оригинальных древнерусских сочинениях
+>>1Grzesik Ryszard (Польшча)
+PERSON 71 Grzesik Ryszard
+PAPER 350 :: Slavia Christiana alias Slaviae Christianae? Czy w średniowieczu istniał jeden model literackiej kultury słowiańskiej?
+code 2.3.3
+date 22 time 14.30 - 16.00
+place аўдыторыя ХIІI
+>>1Пентковская Т.В. (Расія)
+PERSON 488 Пентковская Т.В.
+PAPER 351 :: Евангелие и Апостол с толкованиями в древнейших переводах как единый комплекс переводных текстов
+>>1Čistiakova M. (Літва)
+PERSON 39 Čistiakova M.
+PAPER 352 :: О редакциях церковнославянского "Пролога"
+>>1Гаврюшина Л.К. (Расія)
+PERSON 344 Гаврюшина Л.К.
+PAPER 353 :: Богословский "ключ" агиографической традиции и художественный опыт сербских книжников XIII-XIV вв.
+code 2.3.4
+date 22 time 16.30 - 18.00
+place аўдыторыя ХIІI
+>>1Гаранін С.Л. (Беларусь)
+PERSON 346 Гаранін С.Л.
+PAPER 354 :: NO TITLE
+>>1Příhoda Marek (Чэхія)
+PERSON 180 Příhoda Marek
+PAPER 355 :: Konfesijní otázka a vědomí náboženské výlučnosti v konstituování raně novověké identity (na materiálu ruských historických vyprávění o Smutě první poloviny 17. století)
+>>1Stern D. (Бельгія)
+PERSON 218 Stern D.
+PAPER 356 :: Tradition und Traditionalismus im konfessionellen Kontakt: die ruthenischen geistlichen Lieder in ihrem Verhältnis zur byzantinisch-slavischen Hymnographie
+code 2.3.5
+date 23 time 9.00 - 11.00
+place аўдыторыя ХIІI
+>>1Топорков А.Л. (Расія)
+PERSON 557 Топорков А.Л.
+PAPER 357 :: Синтез библейских и фольклорных традиций в литературе первой русской эмиграции
+>>1Łukaszewicz Marta (Польшча)
+PERSON 131 Łukaszewicz Marta
+PAPER 358 :: O treści pojęcia "tradycja prawosławna" w kontekście badań nad nowożytną literaturą rosyjską: uwagi wstępne
+>>1Плетнева А.А. (Расія)
+PERSON 495 Плетнева А.А.
+PAPER 359 :: Лубочная библия: текст на пересечении книжной и фольклорной традиции
+>>1Rouhier-Willoughby Jeanmarie (ЗША)
+PERSON 192 Rouhier-Willoughby Jeanmarie
+PAPER 360 :: The Holy Spring of Iskitim, Siberia: The Intersection of Folk Religion, Orthodox Doctrine, and Communist Ideals
+code 2.3.6
+date 23 time 11.30 - 13.00
+place аўдыторыя ХIІI
+>>1Корзо М.А. (Расія)
+PERSON 418 Корзо М.А.
+PAPER 361 :: Становление катехизиса как жанра в восточнославянской книжности конца XVI-XVII вв.: источники и эволюция
+>>2Kakridis Yannis, Taseva Lora (Швейцарыя)
+PERSON 95 Kakridis Yannis
+PERSON 225 Taseva Lora
+PAPER 362 :: Die kirchenslavische Übersetzung der antilateinischen Schriften von Gregorios Palamas und Barlaam von Kalabrien - eine Herausforderung für die Editionsphilologie
+>>1Grešlík Vladislav (Славакія)
+PERSON 69 Grešlík Vladislav
+PAPER 363 :: Patrocíniá chrámov byzantského obradu na Slovensku a ich ikony
+>>1De La Fortelle Anastassia (Швейцарыя)
+PERSON 273 De La Fortelle Anastassia
+PAPER 364 :: Le paradigme de la tour de Babel dans la littérature russe actuelle (convention réaliste)
+code 2.3.7
+date 24 time 9.00 - 11.00
+place аўдыторыя ХIІI
+>>1Стојменска-Елзесер Соња (Македонія)
+PERSON 540 Стојменска-Елзесер Соња
+PAPER 365 :: Библиски алузии во современиот македонски роман
+>>1Osinkina Lyubov' (Вялікабрытанія)
+PERSON 166 Osinkina Lyubov’
+PAPER 366 :: The representation of literary motifs in the visual arts (in connection with the image of Job)
+>>1Łucewicz Ludmiła (Польшча)
+PERSON 129 Łucewicz Ludmiła
+PAPER 367 :: Religijno-filozoficzna poezja Karola Wojtyły
+code 2.4.1
+date 22 time 9.00 - 11.00
+place аўдыторыя ХVI
+>>1Кемппанен Ханну (Фінляндыя)
+PERSON 401 Кемппанен Ханну
+PAPER 368 :: Вольно или буквально? Вопрос о стратегиях перевода в российском переводоведении
+>>1Černý Marcel (Чэхія)
+PERSON 36 Černý Marcel
+PAPER 369 :: Adolf Černý jako první český překladatel novodobé běloruské literatury
+>>1Putsileva Larisa (Італія)
+PERSON 183 Putsileva Larisa
+PAPER 370 :: "Не пакiдайце ж мовы нашай беларускай, каб не ўмёрлi!". К вопросу о переводе поэтов Адраджэння на итальянский язык
+>>1Sabbatini Marco (Італія)
+PERSON 195 Sabbatini Marco
+PAPER 371 :: Итальянский романтизм в Беларуси. Некоторые заметки о восприятии творчества Дж. Леопарди
+code 2.4.2
+date 22 time 11.30 - 13.00
+place аўдыторыя ХVI
+>>2Tomelleri Vittorio S., Branchesi Giulia (Італія)
+PERSON 286 Tomelleri Vittorio S.
+PERSON 23 Branchesi Giulia
+PAPER 372 :: Paradoxa stoicorum в переводе A.М. Курбского. Текстологические и лингвистические парадоксы
+>>1Сазонова Л.И. (Расія)
+PERSON 525 Сазонова Л.И.
+PAPER 373 :: Творческая история "Рифмологиона" Симеона Полоцкого: проблемы текстологии
+>>1Ambrosiani Per (Швецыя)
+PERSON 4 Ambrosiani Per
+PAPER 374 :: Translating Polylingualism: Shakespeare's Henry V in Russian
+>>1Мосарская Мария (Бельгія)
+PERSON 464 Мосарская Мария
+PAPER 375 :: К вопросу о переводе диалектной прозы
+code 2.5.1
+date 22 time 9.00 - 11.00
+place аўдыторыя ХIV
+>>1Olteanu Antoaneta (Румынія)
+PERSON 162 Olteanu Antoaneta
+PAPER 376 :: Россия и русскость в современной русской литературe
+>>1Garzonio Stefano (Італія)
+PERSON 62 Garzonio Stefano
+PAPER 377 :: Пушкин и Даль. Материалы из архива М.М. Никитина
+>>1Beretta Cristina (Аўстрыя)
+PERSON 15 Beretta Cristina
+PAPER 378 :: Differenzerfahrung in der zeitgenössischen bosnisch/kroatisch/serbischen Literatur
+>>1Мркаль Зона (Сербія)
+PERSON 466 Мркаль Зона
+PAPER 379 :: Восприятие русской литературы в учебном контексте
+code 2.5.2
+date 22 time 11.30 - 13.00
+place аўдыторыя ХIV
+>>1De Dobbeleer М. (Бельгія)
+PERSON 272 De Dobbeleer М.
+PAPER 380 :: Defining (and Parodying) the Epic: Тhe Aeneid Turned Inside Out Among the Eastern Slavs
+>>1Бошкович Драган (Сербія)
+PERSON 317 Бошкович Драган
+PAPER 381 :: Культурные последствия и идеологическо-политическая подоплека идеи югославской литературы в (южно)славянском контексте
+>>1Jekutsch Ulrike (Германія)
+PERSON 90 Jekutsch Ulrike
+PAPER 382 :: Zwischen Herrscherlob, Totenklage und nationaler Geschichtskonzeption. Russische Herrscherinnen in Semen Bobrovs "Rassvet polnoči" (1804)
+>>1Виднянский С.В. (Украіна)
+PERSON 337 Виднянский С.В.
+PAPER 383 :: Славянские народы в европейском интеграционном процессе: проблемы сохранения культурных традиций и национальной идентичности
+code 2.5.3
+date 22 time 14.30 - 16.00
+place аўдыторыя ХIV
+>>1Трус М.В. (Беларусь)
+PERSON 561 Трус М.В.
+PAPER 384 :: Беларуская літаратура ў Чэхаславакіі 1920--30-х г.г.: нацыянальная ідэнтычнасць ва ўмовах актыўнага міжкультурнага палілогу
+>>2Ivanković Katica, Kos Suzana (Харватыя)
+PERSON 84 Ivanković Katica
+PERSON 109 Kos Suzana
+PAPER 385 :: Motiv odrastanja u socijalizmu u suvremenoj hrvatskoj i češkoj prozi
+>>1Stefański Michał (Польшча)
+PERSON 217 Stefański Michał
+PAPER 386 :: Nie miasto, nie masa, nie maszyna. Osobliwości czeskiej poezji proletariackiej
+>>1Wiśniewska Lidia (Польшча)
+PERSON 251 Wiśniewska Lidia
+PAPER 387 :: Don Juanowie, czyli narodziny, śmiertelny rozkwit i upadek miłości romantycznej
+code 2.5.4
+date 22 time 16.30 - 18.00
+place аўдыторыя ХIV
+>>1Gyöngyösi Mária (Венгрыя)
+PERSON 74 Gyöngyösi Mária
+PAPER 388 :: Феномен "Блок" в жизни и творчестве Пастернака
+>>1Connolly Julian W. (ЗША)
+PERSON 271 Connolly Julian W.
+PAPER 389 :: Cruel Wit: The Ethics of Humor in Vladimir Nabokov's Fiction
+>>1Tetean Diana (Румынія)
+PERSON 228 Tetean Diana
+PAPER 390 :: Приглашение на казнь В. Набокова или магия лабиринта
+code 2.5.5
+date 23 time 9.00 - 11.00
+place аўдыторыя ХIV
+>>1Шешкен А.Г. (Расія)
+PERSON 583 Шешкен А.Г.
+PAPER 391 :: Лирика Максима Богдановича (к вопросу об особенностях формирования белорусской национальной литературы)
+>>1Gimpelevich Zina (Канада)
+PERSON 64 Gimpelevich Zina
+PAPER 392 :: Jurka Vic'bič (1905-1975): His Place in Belarusian Culture
+>>1Маркович Слободан Ж. (Сербія)
+PERSON 608 Маркович Слободан Ж.
+PAPER 393 :: Десанка Максимович - поэтический посредник между славянскими литературами
+>>1Vrinat-Nikolov Marie (Францыя)
+PERSON 245 Vrinat-Nikolov Marie
+PAPER 394 :: Revisiter l'histoire et le canon littéraires bulgares
+code 2.5.6
+date 23 time 11.30 - 13.00
+place аўдыторыя ХIV
+>>1Иванич Душан (Сербія)
+PERSON 375 Иванич Душан
+PAPER 395 :: Региональная динамика и международное созвездие сербского реализма
+>>1Адельгейм И.Е. (Расія)
+PERSON 294 Адельгейм И.Е.
+PAPER 396 :: Национальный этос в пространстве гипермаркета. Самоощущение героя молодой прозы Польши и России начала XXI в.
+>>1Burenina-Petrova Olga (Швейцарыя)
+PERSON 32 Burenina-Petrova Olga
+PAPER 397 :: Литература как мишень? Русская классика на экране российского кинематографа 2000-х годов
+code 2.5.7
+date 24 time 9.00 - 11.00
+place аўдыторыя ХIV
+>>1Ѓурчинов Милан (Македонія)
+PERSON 357 Ѓурчинов Милан
+PAPER 398 :: Уште еднаш кон проблемот на забрзаниот развој на словенските литератури со посебен осврт врз македонската и белоруската литература
+>>1Саверчанка І.В. (Беларусь)
+PERSON 524 Саверчанка І.В.
+PAPER 399 :: Росквіт беларускага пісьменства і літаратуры ХI-ХII стст. у кантэксце агульнаславянскага культурнага ўздыму
+>>1Symaniec Virginie (Францыя)
+PERSON 221 Symaniec Virginie
+PAPER 400 :: La formation d'une littérature biélorussianophone: un cas singulier?
+>>1Рагойша В.П. (Беларусь)
+PERSON 505 Рагойша В.П.
+PAPER 401 :: Белорусский стих ХIХ в. между Востоком и Западом
+code 2.6.1
+date 24 time 11.30 - 13.00
+place аўдыторыя ХII
+>>1Constantin Geambaşu (Румынія)
+PERSON 40 Constantin Geambaşu
+PAPER 402 :: Postawa Czesława Miłosza wobec poezji
+>>1Кісліцына Г.М. (Беларусь)
+PERSON 403 Кісліцына Г.М.
+PAPER 403 :: Эстетические принципы современной белорусской критики
+>>1Twaranowicz Halina (Польшча)
+PERSON 238 Twaranowicz Halina
+PAPER 404 :: Rocznik "Termopile" i dzisiejszy białoruski proces literacki
+code 2.7.1
+date 22 time 9.00 - 11.00
+place аўдыторыя ХV
+>>1Будагова Л.Н. (Расія)
+PERSON 320 Будагова Л.Н.
+PAPER 405 :: О некоторых автохтонных истоках славянского литературного авангарда
+>>1Zieliński Bogusław (Польшча)
+PERSON 265 Zieliński Bogusław
+PAPER 406 :: Słowiańskie hymny narodowe z perspektywy przełomu XX i XXI wieku
+>>1Detrez R. (Бельгія)
+PERSON 45 Detrez R.
+PAPER 407 :: Автобиография ли е "Автобиографията" на Григор Пърличев?
+>>1Kodrić Sanjin (Боснія і Герцагавіна)
+PERSON 105 Kodrić Sanjin
+PAPER 408 :: Književnohistorijske i poetičke specifičnosti novije bosanskohercegovačke / bošnjačke književnosti u (južno)slavenskom književno-kulturalnom kontekstu
+code 2.7.2
+date 22 time 11.30 - 13.00
+place аўдыторыя ХV
+>>1Trojanowska Beata (Польшча)
+PERSON 235 Trojanowska Beata
+PAPER 409 :: Мотив "очарованного странника" в романе "Чевенгур" Андрея Платонова в контексте литературной традиции Николая Лескова
+>>1Salmon Laura (Італія)
+PERSON 196 Salmon Laura
+PAPER 410 :: По поводу писем Сергея Довлатова, их литературности и отношения к художественным текстам
+>>1Cymborska-Leboda Maria (Польшча)
+PERSON 42 Cymborska-Leboda Maria
+PAPER 411 :: "Любовные истории" и дискурс телесности в прозе русской диаспоры в Париже (З. Гиппиус, М. Осоргин, И. Бунин, Г. Газданов)
+code 2.7.3
+date 22 time 14.30 - 16.00
+place аўдыторыя ХV
+>>1Žekulin Nicholas (Канада)
+PERSON 260 Žekulin Nicholas
+PAPER 412 :: The Art of Stylization: Turgenev's Translations from Flaubert and "Песнь торжествующей любви"
+>>1Ристески Димитрија (Македонія)
+PERSON 514 Ристески Димитрија
+PAPER 413 :: Руската литература во творечкиот развој на Александар (Ацо) Караманов
+>>1Пьералли Клаудия (Італія)
+PERSON 504 Пьералли Клаудия
+PAPER 414 :: Тюремная и концлагерная поэзия политических репрессий
+code 2.7.4
+date 22 time 16.30 - 18.00
+place аўдыторыя ХV
+>>1Гундорова Тамара (Украіна)
+PERSON 356 Гундорова Тамара
+PAPER 415 :: Інший модернізм: дискусійні питання у слов'янських літературах
+>>1Jakóbiec-Semkowowa Milica (Польшча)
+PERSON 86 Jakóbiec-Semkowowa Milica
+PAPER 416 :: Poeci serbskiego modernizmu w drodze na Parnas
+>>1Scholze-Šołta Dietrich (Германія)
+PERSON 203 Scholze-Šołta Dietrich
+PAPER 417 :: Dwujęzyczność literatury serbołużyckiej po 1945 r.
+code 2.7.5
+date 23 time 9.00 - 11.00
+place аўдыторыя ХV
+>>1Autant-Mathieu Marie-Christine (Францыя)
+PERSON 8 Autant-Mathieu Marie-Christine
+PAPER 418 :: Réécritures postmodernes de Tchekhov en Russie aujourd'hui ou comment interroger une société déstructurée à partir d'une œuvre-matrice
+>>1Широкова Л.Ф. (Расія)
+PERSON 585 Широкова Л.Ф.
+PAPER 419 :: От соцреализма до постмодернизма: смена художественных направлений в словацкой и русской литературе второй половины
+>>2Richter Angela, Kenneweg Anne Cornelia (Германія)
+PERSON 188 Richter Angela
+PERSON 276 Kenneweg Anne Cornelia
+PAPER 420 :: "Esejizam" i umreženo mišljenje: Miroslav Krleža i europska moderna
+>>1Gigante G. (Бельгія)
+PERSON 63 Gigante G.
+PAPER 421 :: Проза Л. Улицкой в контексте современной русской литературы
+code 2.7.6
+date 23 time 11.30 - 13.00
+place аўдыторыя ХV
+>>1Morard Annick (Швейцарыя)
+PERSON 153 Morard Annick
+PAPER 422 :: Des mythes et des monstres: "Kys'" de Tat'jana Tolstaja
+>>1Polowy Teresa (Канада)
+PERSON 178 Polowy Teresa
+PAPER 423 :: Love and Alcohol: Performance in the Fiction of Writer-Singer Natalya Medvedeva
+>>1Wöll Alexander (Германія)
+PERSON 253 Wöll Alexander
+PAPER 424 :: "Россия: общий вагон" Натальи Ключаревой и некоторые тенденции в современных славянских литературах
+code 2.7.7
+date 24 time 09.00 - 11.00
+place аўдыторыя ХIII
+>>1Szíártó Imre (Венгрыя)
+PERSON 222 Szíártó Imre
+PAPER 425 :: Понятие национальной кинематографии - два примера: Словения и Беларусь
+>>1Йович Боян (Сербія)
+PERSON 387 Йович Боян
+PAPER 426 :: Шарло и славяне: Чарли Чаплин в славянской литературе и искусстве между двумя войнами
+>>1Mushchinina Maria (Германія)
+PERSON 157 Mushchinina Maria
+PAPER 427 :: Шутка, понятная во всех отношениях... или Какой же школьник не знает Гоголя? Zum Erkennen und zur Interpretation von Allusionen
+code 3.0.1
+date 22 time 14.30 - 16.00
+place аўдыторыя ХVI
+>>1Бойович Злата (Сербія)
+PERSON 314 Бойович Злата
+PAPER 428 :: Концепция славистики начала XIX века и вопрос ее актуальности (литературно-исторический аспект)
+>>1Лаптева Л.П. (Расія)
+PERSON 431 Лаптева Л.П.
+PAPER 429 :: Съезд русских филологов-славистов в Петербурге в 1903 г. и его значение для дальнейшего развития славяноведения
+>>1Робинсон М.А. (Расія)
+PERSON 516 Робинсон М.А.
+PAPER 430 :: Первый Международный съезд славистов: несбывшиеся надежды, обмен мнениями ведущих русских славистов до и после съезда
+>>1Пандев Димитар (Македонія)
+PERSON 485 Пандев Димитар
+PAPER 431 :: Претставувањето на македонистиката на Меѓународните славистички конгреси
+code 3.0.2
+date 22 time 16.30 - 18.00
+place аўдыторыя ХVI
+>>1Запрудскі С.М. (Беларусь)
+PERSON 373 Запрудскі С.М.
+PAPER 432 :: Аб навуковай рэцэпцыі беларускай мовы ў Расіі ў першай палове
+>>1Никифоров К.В. (Расія)
+PERSON 475 Никифоров К.В.
+PAPER 433 :: 65 лет развития академической исторической славистики в московском Институте славяноведения
+>>1Скрипник A.A. (Украіна)
+PERSON 530 Скрипник A.A.
+PAPER 434 :: Актуальные аспекты славистических исследований и эдиционная деятельность Института искусствоведения, фольклористики и этнологии имени М.Ф. Рыльского НАН Украины
+code 3.0.3
+date 23 time 9.00 - 11.00
+place аўдыторыя ХVI
+>>1Krško Jaromír (Славакія)
+PERSON 118 Krško Jaromír
+PAPER 435 :: Slovenská onomastika v rokoch 1990-2010
+>>1Danilova Irina (Швецыя)
+PERSON 44 Danilova Irina
+PAPER 436 :: Изучение идей Павла Флоренского в Швеции
+>>1Hladký Ladislav (Чэхія)
+PERSON 77 Hladký Ladislav
+PAPER 437 :: Časopis Slovanský přehled: Sto ročníků úsilí o praktické poznávání kultury a dějin Slovanů i o teoretický rozvoj slavistiky
+>>1Zavarský Svorad (Славакія)
+PERSON 259 Zavarský Svorad
+PAPER 438 :: Latinská kultúra na Slovensku v období národného obrodenia (1780-1848) - nový pohľad na kľúčové obdobie slovenských dejín
+date 23 time 14.30 - 17.00
+place аўдыторыя I
+>>1Будзько Ірына (Беларусь)
+PERSON 321 Будзько Ірына
+PAPER 439 :: Кантамінацыя як інавацыя: да праблемы дэтэрмінацыі прынцыпа перакладу Бібліі Францыска Скарыны
+>>1Христова-Шомова Искра (Балгарыя)
+PERSON 573 Христова-Шомова Искра
+PAPER 440 :: Преводът на Апостола от Франциск Скорина
+>>1Цибранска-Костова Мария (Балгарыя)
+PERSON 574 Цибранска-Костова Мария
+PAPER 441 :: Скорина в славянском и европейском контесте
+>>1Мострова Татяна (Украіна)
+PERSON 465 Мострова Татяна
+PAPER 442 :: Кирилло-Мефодиевские традиции в рукописном наследии Великого Княжества Литовского
+>>1Суша Алесь (Беларусь)
+PERSON 546 Суша Алесь
+PAPER 443 :: Спадчына Скарыны: Да праграмы падрыхтоўкі 500-годдзя беларускага кнігадрукавання
+date 23 time 14.30 - 17.00
+place аўдыторыя IІ
+>>1Жулинский Николай Григорьевич (Украіна)
+PERSON 598 Жулинский Николай Григорьевич
+PAPER 444 ::  Шевченко в духовном пространстве национальной истории и культуры
+>>1Барабаш Юрий Яковлевич (Украіна)
+PERSON 592 Барабаш Юрий Яковлевич
+PAPER 445 :: Шевченко и Гоголь: национальный дискурс
+>>1Касперский Эдвард (Польшча)
+PERSON 400 Касперский Эдвард
+PAPER 446 :: Тарас Шевченко и Юлиуш Словацкий: топика свободы
+>>1Радышевский Ростислав (Украіна)
+PERSON 510 Радышевский Ростислав
+PAPER 447 :: Шевченко и польские романтики: топика правды
+>>1Дзюба Иван (Украіна)
+PERSON 363 Дзюба Иван
+PAPER 448 :: NO TITLE
+>>1Грабович Григорий (ЗША)
+PERSON 354 Грабович Григорий
+PAPER 449 :: NO TITLE
+>>1Козак Степан (Польшча)
+PERSON 413 Козак Степан
+PAPER 450 :: NO TITLE
+date 23 time 14.30 - 17.00
+place аўдыторыя IІІ
+>>1Vakareliyska Cynthia (ЗША)
+PERSON 240 Vakareliyska Cynthia
+PAPER 451 :: Electronic Collation of Medieval Slavic and Greek Calendars of Saints: Identifying Calendar Traditions and Families
+>>1Стойкова Ана (Балгарыя)
+PERSON 538 Стойкова Ана
+PAPER 452 :: За електронното издание на славянския Физиолог - http://physiologus.proab.info/
+>>1Mladenova Olga M. (Канада)
+PERSON 281 Mladenova Olga M.
+PAPER 453 :: Архивные магнитофонные записи и их транскрипции: опыт создания электронного корпуса диалектной речи двуязычного населения (Отвъддунавски електронен корпус. Допълнение към Българските говори в Румъния от Максим Младенов)
+>>1Стойков Веселин (Балгарыя)
+PERSON 537 Стойков Веселин
+PAPER 454 :: За диалога между програмисти и филолози: поуката от два експеримента
+>>1Баранов Виктор А. (Расія)
+PERSON 593 Баранов Виктор А.
+PAPER 455 :: NO TITLE
+date 23 time 14.30 - 17.00
+place аўдыторыя ІV
+>>1Hentschel Gerd (Германія)
+PERSON 76 Hentschel Gerd
+PAPER 456 :: Белорусско-русская смешанная речь: Между вариативностью и регулярностью, "хаосом" и узусом (системностью).
+>>1Tambor Jolanta (Польшча)
+PERSON 224 Tambor Jolanta
+PAPER 457 :: Ile śląskiego jest w śląskim?
+>>1Тараненко Олександр (Украіна)
+PERSON 548 Тараненко А.А.
+PAPER 458 :: Вариантность vs. стабильность в структуре украинско-русского "суржика" (УРС): совокупность идиолектов vs. социолект
+>>1Запрудскі Сяргей (Беларусь)
+PERSON 373 Запрудскі С.М.
+PAPER 459 :: NO TITLE
+date 23 time 14.30 - 17.00
+place аўдыторыя V
+>>1Вальтер Х. (Германія), Мокиенко В.М. (Расія)
+PERSON 327 Вальтер Х.
+PAPER 460 :: Национальное и общеевропейское в славянской фразеологии
+>>1Коваль В.И. (Беларусь)
+PERSON 410 Коваль В.И.
+PAPER 461 :: Белорусская фразеология в общеевропейском контексте (этнолингвистические проблемы)
+>>1Хлебда Войцех (Польшча)
+PERSON 571 Хлебда Войцех
+PAPER 462 :: Славянская библейская фразеология: общее и национально маркированное
+>>1Финк Ж. (Харватыя)
+PERSON 566 Финк Ж.
+PAPER 463 :: NO TITLE
+>>1Балакова Д. (Славакія)
+PERSON 306 Балакова Д.
+PAPER 464 :: NO TITLE
+>>1Иванов Е.Е. (Беларусь)
+PERSON 376 Иванов Е.Е.
+PAPER 465 :: NO TITLE
+>>1Даниленко Л.И. (Украіна)
+PERSON 359 Даниленко Л.И.
+PAPER 466 :: NO TITLE
+>>1Кржишник Э. (Славенія)
+PERSON 423 Кржишник Э.
+PAPER 467 :: NO TITLE
+>>1Мршевич-Радович Д. (Сербія)
+PERSON 467 Мршевич-Радович Д.
+PAPER 468 :: NO TITLE
+>>1Степанова Л. (Чэхія)
+PERSON 536 Степанова Л.
+PAPER 469 :: NO TITLE
+>>1Геoргиева С. (Балгарыя)
+PERSON 348 Геoргиева С.
+PAPER 470 :: NO TITLE
+>>1Крусате М. (Іспанія)
+PERSON 424 Крусате М.
+PAPER 471 :: NO TITLE
+date 23 time 14.30 - 17.00
+place аўдыторыя VI
+>>1Žeňuch Peter (Славакія)
+PERSON 262 Žeňuch Peter
+PAPER 472 :: Tradícia, jazyk, identita a kontexty byzantsko-slovanskej kultúry pod Karpatmi
+>>1Stern Dieter (Бельгія)
+PERSON 218 Stern D.
+PAPER 473 :: Traditionalismus und Tradition: Die geistlichen Lieder in ihrem Verhältnis zur byzantinisch-slavischen Hymnographie
+>>1Медведик Юрій (Украіна)
+PERSON 447 Медведик Юрій
+PAPER 474 :: Українська духовна барочна пісня у контексті паралітургичних культур Центрально-Східної Європи
+>>1Rabus Achim (Германія)
+PERSON 184 Rabus Achim
+PAPER 475 :: Besonderheiten der Orthographie und der Alphabetsverwendung bei paraliturgischen Liedern, oder: Wie kyrillisch ist die kyrillische geistliche Liedkultur?
+>>1Marinčák Šimon (Славакія)
+PERSON 134 Marinčák Šimon
+PAPER 476 :: Interferencia liturgickej hudby a piesňovej kultúry v prostredí bývalej Mukačevskej eparchie
+date 23 time 14.30 - 17.00
+place аўдыторыя VІІ
+>>1Podmaková Dagmar (Славакія)
+PERSON 177 Podmaková Dagmar
+PAPER 477 :: Od obrazov postáv hier A. P. Čechova po podoby súčasníkov
+>>1Lazorčáková Tatjana (Чэхія)
+PERSON 126 Lazorčáková Tatjana
+PAPER 478 :: Outsider - hrdina současného dramatu a divadla
+>>1Kuligowska-Korzeniewska Anna (Польшча)
+PERSON 119 Kuligowska-Korzeniewska Anna
+PAPER 479 :: Powrót wampira do teatru polskiego
+>>1Мельников Георгий Павлович (Расія)
+PERSON 610 Мельников Георгий Павлович
+PAPER 480 :: Человек/нечеловек в современном театре Чехии и Польши
+>>1Huszár Sylvia (Венгрыя)
+PERSON 82 Huszár Sylvia
+PAPER 481 :: Premena ľudského subjektu v postdramatickom divadle - atypicky dramatický hrdina
+date 23 time 14.30 - 17.00
+place аўдыторыя VIІІ
+>>1Profantová Zuzana (Славакія)
+PERSON 182 Profantová Zuzana
+PAPER 482 :: Folklór a folkloristika vo svete postmoderny
+>>1Krawczyk-Wasilewska Violetta (Польшча)
+PERSON 116 Krawczyk-Wasilewska Violetta
+PAPER 483 :: Tradycja lokalna czy kultura globalna? Dylematy badacza folkloru polskiego
+>>1Hose Sussane (Германія)
+PERSON 80 Hose Sussane
+PAPER 484 :: Mjez němskej a slowjanskej kulturu - Srbska folklora na prze do 21. lětstotka
+>>1Pencev Vladimir (Балгарыя)
+PERSON 619 Pencev Vladimir
+PAPER 485 :: Българската фолклористика в постсоциалистическия период
+>>1Kajfosz Jan (Польшча)
+PERSON 94 Kajfosz Jan
+PAPER 486 :: Folklor i kwestia światotwórczej mocy pojęć naukowych
+date 23 time 14.30 - 17.00
+place аўдыторыя IХ
+>>1Онищенко Алексей Семенович (Украіна)
+PERSON 614 Онищенко Алексей Семенович
+PAPER 487 :: Концептуальные и практические проблемы создания интегрированного электронного корпуса славянских библиотечных фондов
+>>1Леонов Валерий Павлович (Расія)
+PERSON 606 Леонов Валерий Павлович
+PAPER 488 :: Славянский фонд Библиотеки Российской Академии Наук как часть электронного славистического фонда библиотек мира
+>>1Мотульский Роман Степанович (Беларусь)
+PERSON 613 Мотульский Роман Степанович
+PAPER 489 :: Виртуальная реконструкция памятников книжной культуры Беларуси
+>>1Менгель Светлана (Германія), Клостерберг Бритта (Германія)
+PERSON 450 Менгель Светлана
+PAPER 490 :: Одно из старейших славянских собраний в Западной Европе и значение его электронной презентации для славистического международного сообщества. - Slavica в архивах и библиотеке Фонда А.Г. Франке в Галле
+>>1Рогачевская Екатерина (Вялікабрытанія)
+PERSON 517 Рогачевская Екатерина
+PAPER 491 :: Славянские ресурсы в цифровом формате в фондах Британской Библиотеки: теория и практика
+>>1Солонская Наталья Гавриловна (Україна)
+PERSON 534 Солонская Н.Г.
+PAPER 492 :: Интернет-презентация славянских фондов Национальной библиотеки Украины имени В. И. Вернадского в контексте развития научной деятельности
+>>1Гордеева Марина Юрьевна (Расія)
+PERSON 597 Гордеева Марина Юрьевна
+PAPER 493 :: Гипертекстовая мульмедийная система "Издания Свято-Успенской Почаевской лавры в собрании Библиотеки РАН
+>>1Волкова Ольга Людвиговна (Расія)
+PERSON 596 Волкова Ольга Людвиговна
+PAPER 494 :: Обзор библиографических изданий Славянского фонда Библиотеки Российской Академии Наук (1994-2011)
+date 23 time 14.30 - 17.00
+place аўдыторыя Х
+>>1Гайда Станислав (Польшча)
+PERSON 345 Гайда Станислав
+PAPER 495 :: Категория национальный стиль и славянские национальные стили
+>>1Тошович Бранко (Аўстрыя)
+PERSON 559 Тошович Бранко
+PAPER 496 :: Национальный стиль как проявление национального языка сербов, хорватов, бошняков и черногорцев
+>>1Кузнецова Т. (Украіна)
+PERSON 427 Кузнецова Т.
+PAPER 497 :: Литературный русский язык: особенности языковой ситуации и тенденции развития
+>>1Ухванова-Шмыгова И.Ф. (Беларусь)
+PERSON 565 Ухванова-Шмыгова И.Ф.
+PAPER 498 :: Дискурс-картина мира, репрезентированная в славянских сказках и национальный стиль: точки соприкосновения
+>>1Клушина Н. И. (Расія)
+PERSON 601 Клушина Н.И.
+PAPER 499 :: Русский национальный стиль и его реализация в текстах современных СМИ
+>>1Ивченков В.И. (Беларусь)
+PERSON 381 Ивченков В.И.
+PAPER 500 :: Лингвистика тропов: сходства и различия в национальных стилях
+>>1Сурикова Т.И. (Расія)
+PERSON 544 Сурикова Т.И.
+PAPER 501 :: Этическая рефлексия языка как элемент национального стиля
+date 23 time 14.30 - 17.00
+place аўдыторыя ХI
+>>1Panevová Jarmila (Чэхія), Mírovský Jiří (Чэхія)
+PERSON 167 Panevová Jarmila
+PAPER 502 :: Prague Dependency Treebank - as a prototype for multilingual corpora
+>>1Сичинава Дмитрий (Расія)
+PERSON 528 Сичинава Дмитрий
+PAPER 503 :: Parallel corpora within in the Russian National Corpus V. V. Vinogradov Russian Language Institute of the Russian Academy of Sciences
+>>1Waldenfels Ruprecht von (Швейцарыя)
+PERSON 288 Waldenfels Ruprecht von
+PAPER 504 :: Compiling of the multi-Slavic parallel corpus ParaSoL
+>>1Rosen Alexander (Чэхія)
+PERSON 190 Rosen Alexander
+PAPER 505 :: The InterCorp Project and the efforts to link the Slavic parallel corpora
+>>1Pęzik Piotr (Польшча)
+PERSON 174 Pęzik Piotr
+PAPER 506 :: Slavic parallel corpus resources within the CLARIN project
+date 23 time 14.30 - 17.00
+place аўдыторыя ХІІ
+>>1Bartmiński Jerzy (Польшча), Chlebda Wojciech (Польшча)
+PERSON 12 Bartmiński Jerzy
+PAPER 507 :: EUROPA po polsku: koncept bazowy i jego profile aksjologiczne
+>>1Javorska Galina (Украіна)
+PERSON 617 Javorska Galina
+PAPER 508 :: EVROPA v ukrainskih tekstah (k probleme variativnosti koncepta)
+>>1Rudenko Elena (Беларусь)
+PERSON 620 Rudenko Elena
+PAPER 509 :: Kognitivnaja definicija koncepta SVOBODA (na materiale belorusskogo jazyka)
+>>1Ajdačić Dejan (Сербія)
+PERSON 295 Ajdačić Dejan
+PAPER 510 :: SVOBODA, RAVENSTVO, BRATSTVO i podobnye konstrukcii v slavjanskih jazykah (popytka sravnenij)
+>>1Sedakowa Irina (Расія)
+PERSON 527 Sedakowa Irina
+PAPER 511 :: Smena cennostnyh paradigm v Rossii zimoj 2011-2012 gg.: O ČESTNOSTI
+>>1Tolstaja Svetlana M. (Расія)
+PERSON 552 Tolstaja Svetlana M.
+PAPER 512 :: Russkaja ČEST' i pol'skij HONOR
+>>1Yudin Aleksey V. (Бельгія)
+PERSON 289 Yudin Aleksey V.
+PAPER 513 :: Russkij koncept ČEST i svjazannye s nim: ISTORIJA, SOVREMENNOST', PEREVODIMOST'
+>>1Berezovič Elena (Расія)
+PERSON 310 Berezovič Elena
+PAPER 514 :: K izučeniju variantivnosti aksiologičeskoj leksiki: rus. SAMOLJUBIE.
+date 23 time 14.30 - 17.00
+place аўдыторыя ХIІІ
+>>1Коряковцева Елена (Расія - Польшча)
+PERSON 420 Коряковцева Елена
+PAPER 515 :: Словообразовательные ресурсы новых функциональных стилей (сопоставительный аспект)
+>>1Онхайзер Ингеборг (Аўстрыя)
+PERSON 483 Онхайзер Ингеборг
+PAPER 516 :: Стирание стилистических границ в словообразовании и словоупотреблении
+>>1Нещименко Галина (Расія)
+PERSON 473 Нещименко Г.П.
+PAPER 517 :: Компьютерная интерперсональная коммуникация и воздействие ее узуса на современную речевую культуру и словопроизводство (в сопоставительном ракурсе)
+>>1Петрухина Елена (Расія)
+PERSON 489 Петрухина Елена
+PAPER 518 :: Словообразование и духовно-религиозный дискурс современного русского языка
+>>1Страмлич-Брезник Ирена (Славенія)
+PERSON 541 Страмлич-Брезник Ирена
+PAPER 519 :: Окказиональное словообразование в словенских рекламных текстах
+>>1Аризанковска Лидия (Македонія)
+PERSON 303 Аризанковска Лидия
+PAPER 520 :: Development of functional styles in Macedonian language from the perspective of word formation under the media's influence
+>>1Лукашанец Елена (Беларусь)
+PERSON 433 Лукашанец Елена
+PAPER 521 :: К проблеме словообразовательной маркировки стилей интернет-коммуникации: мотивированнвая лексика в онлайн-словарях
+date 23 time 14.30 - 17.00
+place аўдыторыя ХІV
+date 23 time 14.30 - 17.00
+place аўдыторыя ХV
+>>1Запольская Наталья (Расія)
+PERSON 372 Запольская Н.Н.
+PAPER 522 :: Церковнославянский язык в христианской эпистеме
+>>1Суркова Елена (Беларусь)
+PERSON 545 Суркова Елена
+PAPER 523 :: О направлениях метаязыковой рефлексии в Кирилло-Мефодиевской филологической школе IX-X вв.
+>>1Томеллери Витторио (Італія)
+PERSON 553 Томеллери Витторио
+PAPER 524 :: Знания о языке в Московской Руси в конце XV-первой половине XVI вв.
+>>1Вернер Инна (Расія)
+PERSON 336 Вернер И.В.
+PAPER 525 :: Омонимия падежей как дидактический и эвристический принцип в церковнославянской грамматике XV-XVII вв.
+>>1Крылова Татьяна (Расія)
+PERSON 425 Крылова Татьяна
+PAPER 526 :: Слова со значением интеллектуальной способности и русские наивно-языковые представления об уме
+date 23 time 14.30 - 17.00
+place аўдыторыя ХVI
+>>1Тополињска Зузана (Македонія)
+PERSON 556 Тополињска Зузана
+PAPER 527 :: Механизмите на кондензација на текстот на релација полски-македонски
+>>1Марковиќ Марјан (Македонія)
+PERSON 442 Марковиќ Марјан
+PAPER 528 :: Таксисни конструкции во македонскиот и во полскиот јазик со извесни руски и албански еквиваленти
+>>1Миркуловска Милица (Македонія)
+PERSON 453 Миркуловска Милица
+PAPER 529 :: Таксисни конструкции во македонскиот и во полскиот јазик со извесни руски и албански еквиваленти
+>>1Панчевска Ангелина (Македонія)
+PERSON 487 Панчевска Ангелина
+PAPER 530 :: Архазимите наспрема балканските иновации во македонскиот заменски систем
+>>1Sawicka Irena (Польшча)
+PERSON 199 Sawicka Irena
+PAPER 531 :: Macedoński system dźwiękowi - dziedzictwo słowiańskie wobec innowacji balkańskich
+>>1Sokołowski Jan (Польшча)
+PERSON 213 Sokołowski Jan
+PAPER 532 :: System słowotwórczy języka macedońskiego na tle innych języków słowiańskich
+date 24 time 14.30 - 17.00
+place аўдыторыя V
+>>1Besters-Dilger Juliane (Германія)
+PERSON 18 Besters-Dilger Juliane
+PAPER 533 :: Sociolinguistic factors PROMOTING or inhibiting convergence within Slavic anguages
+>>1Patráš Vladimír (Славакія)
+PERSON 169 Patráš Vladimír
+PAPER 534 :: Sociolingvisticke wyskumy bezprostrednej komunikacie a dynamika pojmu "ustnost"
+>>1Gjurkova Aleksandra (Македонія)
+PERSON 618 Gjurkova Aleksandra
+PAPER 535 :: Contemporary Changes in Macedonian language from a sociolinguistic perspective
+>>1Карпиловская Евгения (Украіна)
+PERSON 397 Карпиловская Е.А.
+PAPER 536 :: Socialni czynnyky dynamyky norm w ukrajinskij mowi kincia XX - poczatku XXI stolittia: systema i uzus
+>>1Kurek Halina (Польшча)
+PERSON 121 Kurek Halina
+PAPER 537 :: Czynniki socjolingwistyczne a przemiany polszczyzny mówionej w ostatnim półwieczu
+date 24 time 14.30 - 17.00
+place аўдыторыя VІ
+>>3Rudnik-Karwatowa Zofia, Banasiak Jakub, Mikos Zenon (Польшча)
+PERSON 194 Rudnik-Karwatowa Zofia
+PERSON 9 Banasiak Jakub
+PERSON 149 Mikos Zenon
+PAPER 538 :: Językowe problemy optymalizacji wyszukiwania informacji w systemie iSybislaw
+>>1Волкава Яўгенія (Беларусь)
+PERSON 340 Волкава Яўгенія
+PAPER 539 :: Праблемы беларускай лінгвістычнай тэрміналогіі і пытанне суадноснасці ключавых слоў (лінгвістычных тэрмінаў) у iSybislaw
+>>2Алексеева Мадина, Остапчук Оксана (Расія)
+PERSON 297 Алексеева Мадина
+PERSON 484 Остапчук О.А.
+PAPER 540 :: Многокомпонентные термины в научном дискурсе и в информационной системе славянского языкознания iSybislaw (на примере русского и польского языков)
+>>1Łuczków Iwona (Польшча)
+PERSON 130 Łuczków Iwona
+PAPER 541 :: Problem ekwiwalencji terminologii językoznawczej w świetle tradycji opisu języków słowiańskich (na przykładzie języka polskiego i rosyjskiego)
+>>1Цыхун Генадзь (Беларусь)
+PERSON 575 Цыхун Генадзь
+PAPER 542 :: NO TITLE
+>>1Papcunová Jana (Чэхія)
+PERSON 168 Papcunová Jana
+PAPER 543 :: NO TITLE
+date 24 time 14.30 - 17.00
+place аўдыторыя VIІ
+>>1Колер Гун-Брит (Германія), Навуменка Павел (Беларусь)
+PERSON 415 Колер Гун-Брит
+PAPER 544 :: Аспекты и стратегии институциональной и эстетической автономизации в "малых" литературах (на примере белорусской литературы первой трети ХХ в.)
+>>1Хаўстовіч Мікола (Польшча)
+PERSON 570 Хаўстовіч Мікола
+PAPER 545 :: Становление белоруского литературного поля в ХІХ в. как процес "эмансипации". Проблема автономизации в контексте типологии "малых" литератур.
+>>1Ковалёв Сергей (Польшча)
+PERSON 409 Ковалёв Сергей
+PAPER 546 :: Полилингвизм и полиэтничность как признаки "малых литератур" (на примере исторического развития белорусской литературы)
+>>1Чарота Іван (Беларусь)
+PERSON 578 Чарота Іван
+PAPER 547 :: NO TITLE
+>>1Гардзанити Марчелло (Італія)
+PERSON 347 Гардзанити Марчелло
+PAPER 548 :: NO TITLE
+date 24 time 14.30 - 17.00
+place аўдыторыя VІІІ
+>>1Вихованець Іван (Украіна), Городенська Катерина (Украіна), Загнітко Анатолій (Украіна)
+PERSON 338 Вихованець Іван
+PAPER 549 :: Функційність як засада створення сучасних граматик слов'янських мов
+>>1Іваницька Ніна (Украіна)
+PERSON 385 Іваницька Ніна
+PAPER 550 :: Повнозначне слово в синтаксисі: традиція й "оновлені" теорії
+>>1Всеволодова Майя (Расія)
+PERSON 342 Всеволодова Майя
+PAPER 551 :: Грамматики славянских языков XXI века (о необходимости написания объективных грамматик славянских языков)
+>>1Kleszczowa Krystyna (Польшча)
+PERSON 103 Kleszczowa Krystyna
+PAPER 552 :: Funkcyjne homonimy
+>>1Харытончык Зінаіда (Беларусь)
+PERSON 569 Харытончык Зінаіда
+PAPER 553 :: Транспазіцыя, яе тыпы і праблемы апісання
+date 24 time 14.30 - 17.00
+place аўдыторыя IХ
+>>1Апресян Юрий (Расія)
+PERSON 302 Апресян Юрий
+PAPER 554 :: Грамматика в словаре
+>>1Барентсен А. (Нідэрланды)
+PERSON 308 Барентсен А.
+PAPER 555 :: Проблемы описания союза ПОКА
+>>1Богуславский Игорь (Расія)
+PERSON 313 Богуславский Игорь
+PAPER 556 :: Сочинительные союзы и синтаксические конфликты
+>>1Желе Андреа (Славенія)
+PERSON 370 Желе Андреа
+PAPER 557 :: Экспрессия в словообразовании и значении глаголов
+>>1Иомдин Леонид (Расія)
+PERSON 383 Иомдин Леонид
+PAPER 558 :: Малый синтаксис русского языка
+>>1Паневова Ярмила (Чэхія)
+PERSON 486 Паневова Ярмила
+PAPER 559 :: Глагольная информация в словаре и ее использование в грамматике
+date 24 time 14.30 - 17.00
+place аўдыторыя Х
+>>1Лучик Василь Вікторович (Украіна)
+PERSON 607 Лучик Василь Вікторович
+PAPER 560 :: Залежність власних назв від розвитку суспільства (на матеріалі української мови)
+>>1Krško Jaromír (Славакія)
+PERSON 118 Krško Jaromír
+PAPER 561 :: Slovenská onomastika v rokoch 1990 - 2010
+>>1Gałkowski Artur (Польшча)
+PERSON 59 Gałkowski Artur
+PAPER 562 :: Chrematonomastyka jako autonomizująca się subdyscyplina nauk onomastycznych
+>>1Капылоў Ігар Л. (Беларусь)
+PERSON 600 Капылоў Ігар Л.
+PAPER 563 :: Унармаванне нацыянальнай тапаніміі Беларусі ў кантэксце дзяржаўнага беларуска-рускага двухмоўя
+>>1Торкар Сильво (Славенія)
+PERSON 558 Торкар Сильво
+PAPER 564 :: Slovenski toponimi tipa Bežigrad, Skočiles, Skočidol v slovanskem kontekstu
+date 24 time 14.30 - 17.00
+place аўдыторыя ХІ
+>>1Gladkova Hana (Чэхія)
+PERSON 65 Gladkova Hana
+PAPER 565 :: Dotazník o jazykovém právu ve slovanských zemích
+>>1Вачкова Кина (Балгарыя)
+PERSON 332 Вачкова Кина
+PAPER 566 :: Закон за езика в славянските страни
+>>1Мечковская Нина Б. (Беларусь)
+PERSON 611 Мечковская Нина Б.
+PAPER 567 :: Языковое законодательство в Беларуси и Украине как документы времени: социальные детерминанты, правовые решения и лакуны, идеологический камуфляж
+>>1Samardžija M. (Харватыя)
+PERSON 197 Samardžija M.
+PAPER 568 :: Jezična politika i planiranje službenih jezika od devedesetih godina XX. Stoljeća u državama sljednicama bivše SFR Jugoslavije
+>>1Šołćina Jana (Германія)
+PERSON 214 Šołćina Jana
+PAPER 569 :: Wosebitosće serbskeje rěčneje politiki pod wuměnjenjemi němsko-serbskeje dwurěčnosće
+date 24 time 14.30 - 17.00
+place аўдыторыя ХІІ
+>>1Лассан Элеонора Руфимовна (Літва)
+PERSON 605 Лассан Элеонора Руфимовна
+PAPER 570 :: Інтэрнэт-дыскурсы як адлюстраванне рознакультурных сцэнарыяў мыслення (на матэрыяле рускіх, польскіх і некаторых неславянскіх інтэрнэт сайтаў)
+>>1Ухванова-Шмыгова Ирина Фроловна (Беларусь)
+PERSON 565 Ухванова-Шмыгова И.Ф.
+PAPER 571 :: Лінгвістыка дыскурса і перспектывы яе развіцця ў славянскай навуковай супольнасці: аналіз прэцэдэнтных дыскурсій
+>>1Кожинова Алла Андреевна (Беларусь)
+PERSON 602 Кожинова Алла Андреевна
+PAPER 572 :: Вобраз свету ў старажытным славянскім дыскурсе: да пытання пра інтравертаванасць старажытных дыскурсаў
+>>1Бжозовская Дорота (Польшча)
+PERSON 311 Бжозовская Дорота
+PAPER 573 :: Славянскі гумарыстычны дыскурс: лексічны зрэз і яго культурныя кантэксты
+>>1Скребцова Татьяна Геннадьевна (Расія)
+PERSON 615 Скребцова Татьяна Геннадьевна
+PAPER 574 :: Персаніфікацыя мовы як характэрная рыса сучаснага славянскага публіцыстычнага дыскурса
+>>1Бразаускене Елена Михайловна (Літва)
+PERSON 595 Бразаускене Елена Михайловна
+PAPER 575 :: Акадэмічны дыскурс і славянскі кантэкст: новыя тэндэнцыі
+date 24 time 14.30 - 17.00
+place аўдыторыя ХІІІ
+>>1Пандев Димитар (Македонія)
+PERSON 485 Пандев Димитар
+PAPER 576 :: NO TITLE
+>>1Јесеншек Марко (Славенія)
+PERSON 389 Јесеншек Марко
+PAPER 577 :: NO TITLE
+>>1Глушица Рајка (Чарнагорыя)
+PERSON 352 Глушица Рајка
+PAPER 578 :: NO TITLE
+>>1Самарџија Марко (Харватыя)
+PERSON 197 Samardžija M.
+PAPER 579 :: NO TITLE
+>>1Марковиќ Јордана (Сербія)
+PERSON 441 Марковиќ Јордана
+PAPER 580 :: NO TITLE
+>>1Каранфиловски Максим (Македонія)
+PERSON 395 Каранфиловски Максим
+PAPER 581 :: NO TITLE
+date 24 time 14.30 - 17.00
+place аўдыторыя ХІV
+>>1Ѓурчинов Милан (Македонія)
+PERSON 357 Ѓурчинов Милан
+PAPER 582 :: NO TITLE
+>>1Шешкен Алла (Расія)
+PERSON 583 Шешкен А.Г.
+PAPER 583 :: NO TITLE
+>>1Крамариќ Златко (Харватыя)
+PERSON 422 Крамариќ Златко
+PAPER 584 :: NO TITLE
+>>1Капушевска-Дракулевска Лидија (Македонія)
+PERSON 394 Капушевска-Дракулевска Лидија
+PAPER 585 :: NO TITLE
+>>1Мојсова-Чепишевска Весна (Македонія)
+PERSON 460 Мојсова-Чепишевска Весна
+PAPER 586 :: NO TITLE
+>>1Субиото Намита (Славенія)
+PERSON 542 Субиото Намита
+PAPER 587 :: NO TITLE
+date 24 time 14.30 - 17.00
+place аўдыторыя ХV
+>>1Siedina Giovanna (Італія)
+PERSON 206 Siedina Giovanna
+PAPER 588 :: Киевско-Могилянская новолатинская поэзия и ее роль в развитии идентичности в Украине (XVII-XVIII)
+>>1Некрашевич-Короткая Жанна (Беларусь)
+PERSON 472 Некрашевич-Короткая Жанна
+PAPER 589 :: NO TITLE
+>>1Mikolajczak Aleksander Wojciech (Польшча)
+PERSON 280 Mikolajczak Aleksander Wojciech
+PAPER 590 :: NO TITLE
+>>1Миронова Валентина Николаевна (Украіна)
+PERSON 612 Миронова Валентина Николаевна
+PAPER 591 :: NO TITLE
+>>1Бойко Наталия Васильевна (Украіна)
+PERSON 594 Бойко Наталия Васильевна
+PAPER 592 :: NO TITLE
+>>1Brogi Giovanna (Італія)
+PERSON 26 Brogi Giovanna
+PAPER 593 :: NO TITLE
+>>1Garzaniti Marcello (Італія)
+PERSON 61 Garzaniti Marcello

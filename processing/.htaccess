@@ -1,0 +1,3 @@
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|mp3|mpg|mp4|mov|wav|wmv|png|gif|swf|css|js)$">
+Allow from All
+</FilesMatch>
